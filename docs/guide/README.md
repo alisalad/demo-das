@@ -8,12 +8,9 @@ actionLink: '/'
 footer: Copyright © 2018 | Dastuurka | Developed Ali Salad
 ---
 
-::: tip
-This Guide Book is designed to aid the Somali people to become familiar
+<div class="tip custom-block"><p class="custom-block-title">NOTE</p> <p>This Guide Book is designed to aid the Somali people to become familiar
 with the contents of the Provisional Constitution entering into force on
-August 2, 2012.
-
-
+August 2, 2012.</p></div>
 
 
 

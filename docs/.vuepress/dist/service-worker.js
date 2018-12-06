@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "905f14072ef2b2c8819e6533c8891c09"
+    "revision": "d598a92ea176df4c4f547ba41a4bf704"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "revision": "5da6ea5e0c81c755488bebf375b89794"
   },
   {
-    "url": "assets/js/5.7bf922f9.js",
-    "revision": "48ff990f9428da02f5efb5a1cb42f942"
+    "url": "assets/js/5.f216c462.js",
+    "revision": "2e0617032f488f346b4273c14de919c6"
   },
   {
     "url": "assets/js/6.3dc1da16.js",
@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
   },
   {
-    "url": "assets/js/app.2449d472.js",
-    "revision": "63d945397e110b42b01cfd14e012883c"
+    "url": "assets/js/app.d911beb6.js",
+    "revision": "b562a16f89f7520a7d74f17027032f17"
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "51044cff13a7f18709e6539a3e1ed230"
+    "revision": "a93c67e4c41b0d5eeaef27f7f798dc7a"
   },
   {
     "url": "guide/index.html",
-    "revision": "92be6595324eb4c38a644bb34a109f24"
+    "revision": "b70f2a39f95b1101ef14eed29263aefa"
   },
   {
     "url": "guidebook.jpg",
@@ -77,11 +77,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "dc51897c63e84aeda66b8b1a8131141f"
+    "revision": "c469c066fbdcaf063ccbceb28ca9a73d"
   },
   {
     "url": "lang/index.html",
-    "revision": "82066af6384ad86084fd8dedf4d0f289"
+    "revision": "a022c1f778b4dedf093cbbcf08706159"
   },
   {
     "url": "somalia.png",
@@ -89,7 +89,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "8ca1e0120481e358fb5494dd24e067e7"
+    "revision": "ff39d8fdf166d5c8bb2ef06d0fc243fe"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
