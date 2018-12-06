@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/Somalia.png
+heroImage: /somalia.png
 actionText: Dastuurka →
 actionLink: /dastuurka/
 features:
