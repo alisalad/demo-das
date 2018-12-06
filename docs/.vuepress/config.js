@@ -17,6 +17,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Dastuurka', link: '/dastuurka/' },
       { text: 'Guide', link: '/guide/' },
+      { text: 'Xeer Hoosaadka', link: '/xeerhoosaadka/' },
     ],
 
     sidebar: 'auto'
