@@ -10,5 +10,7 @@ module.exports = {
 
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }]
-  ]
+  ],
+
+
 }
