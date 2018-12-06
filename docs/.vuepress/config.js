@@ -8,6 +8,8 @@ module.exports = {
     "/lang/": { lang: "English" }
   },
 
+  serviceWorker: true,
+
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }]],
 
