@@ -9,7 +9,16 @@ module.exports = {
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/somalia.png' }]
-  ],
+    ['link', { rel: 'icon', href: '/somalia.png' }]],
 
+  themeConfig: {
+
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Guide', link: '/guide/' },
+    ],
+
+    sidebar: 'auto'
+
+  }
 }
