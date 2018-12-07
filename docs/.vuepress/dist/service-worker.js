@@ -21,55 +21,59 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d598a92ea176df4c4f547ba41a4bf704"
+    "revision": "894247c17a4af6bff2d6f9caa8bd607f"
   },
   {
-    "url": "assets/css/0.styles.a5e41e54.css",
-    "revision": "ebd013e8259596d82a47ec5161061232"
+    "url": "assets/css/0.styles.22842a01.css",
+    "revision": "873c4ca53ed98476d39d0245832b2398"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.a4cf675e.js",
-    "revision": "1c6b048b81dfea0ce9854bdbb68e1bc2"
+    "url": "assets/js/3.5e2a12e5.js",
+    "revision": "add33f4466533e696fb56823bf5e2d5c"
   },
   {
-    "url": "assets/js/3.ffa4d33b.js",
-    "revision": "10ea4533793f9ffec2b75157e6f7f778"
+    "url": "assets/js/4.bc7d5cf1.js",
+    "revision": "6f7e8993646bace49f9ff501a29d28d5"
   },
   {
-    "url": "assets/js/4.5731f352.js",
-    "revision": "5da6ea5e0c81c755488bebf375b89794"
+    "url": "assets/js/5.55dd2503.js",
+    "revision": "b792667e8da3f3785f5b77f0a5ecd7d8"
   },
   {
-    "url": "assets/js/5.f216c462.js",
-    "revision": "2e0617032f488f346b4273c14de919c6"
+    "url": "assets/js/6.8dd5bb4e.js",
+    "revision": "7be559eed6c9208ab39c08ce8aed3d17"
   },
   {
-    "url": "assets/js/6.3dc1da16.js",
-    "revision": "7dee2bf707cdf8de3a990827b0e9a69b"
+    "url": "assets/js/7.0d3ecb56.js",
+    "revision": "97857892de2bf7f8d6f592d1d0cf83b5"
   },
   {
-    "url": "assets/js/7.5db693cb.js",
-    "revision": "4cef91a08757b8bc00c956114c696ecb"
+    "url": "assets/js/8.ca3e1de9.js",
+    "revision": "8d61bfa4b4bf14efcb6dae715daad31d"
   },
   {
-    "url": "assets/js/8.28b627c0.js",
-    "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
+    "url": "assets/js/9.6b4370e0.js",
+    "revision": "fa4634529913950bd3e6786170bc0c8a"
   },
   {
-    "url": "assets/js/app.d911beb6.js",
-    "revision": "b562a16f89f7520a7d74f17027032f17"
+    "url": "assets/js/app.ddfe061c.js",
+    "revision": "ed9332bcee2050208538767a694f721a"
+  },
+  {
+    "url": "assets/js/vendors~docsearch.0f761e11.js",
+    "revision": "f638395b1f6178592dbfb81cd4dd5717"
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "a93c67e4c41b0d5eeaef27f7f798dc7a"
+    "revision": "3d35597e56a41109493ec4345fc52316"
   },
   {
     "url": "guide/index.html",
-    "revision": "b70f2a39f95b1101ef14eed29263aefa"
+    "revision": "66a97cc1de0d2745051a6c6bd54c6735"
   },
   {
     "url": "guidebook.jpg",
@@ -77,11 +81,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c469c066fbdcaf063ccbceb28ca9a73d"
+    "revision": "d24049072d90aae17d76df8e1bf7c3ad"
   },
   {
     "url": "lang/index.html",
-    "revision": "a022c1f778b4dedf093cbbcf08706159"
+    "revision": "c0a9bfec727752f2c587dd9df6613106"
   },
   {
     "url": "somalia.png",
@@ -89,7 +93,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "ff39d8fdf166d5c8bb2ef06d0fc243fe"
+    "revision": "31d2dcc8af3c1db64c8eed4ca4462042"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
