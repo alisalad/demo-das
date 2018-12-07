@@ -176,3 +176,37 @@ Afka rasmiga ah ee Jamhuuriyadda Federaalka Soomaaliya waa **Af-soomaaliga** (_M
 
 4.  Gudniinka gabdhaha waa caado naxariis-darro iyo xaqiraad u dhiganta jirdil. Gudniinka gabdhaha waa reeban yahay.
 5.  Soo rididda ilmuhu waa arrin ka soo horjeedda Shareecada Islaamka, waana reebban tahay, haddii aan ka ahayn xaalad caafimaad aan looga maarmin badbaadinta nolosha hooyada.
+
+## Qodobka 16aad.
+**Xorriyadda ka-mid-noqoshada**
+Qof kastaa wuxuu xaq u leeyahay in uu ku biiro qof kale ama koox . Xaqaas waxaa ka mid ah inuu
+abaabulo ama ka mid noqdo ururro ay ka mid yihiin ururro shaqaale ama xisbiyo siyaasadeed. Wuxuu
+kaloo xor u yahay in uusan cidna ku biirin, lagumana qasbi karo inuu cid kale ku biiro.
+
+## Qodobka 17aad. 
+**Xorriyadda Diinta iyo Caqiiddada**
+1. Qof kastaa wuxuu xor u yahay in uu ku dhaqmo diintiisa.
+2. Diin aan ahayn Islaamka laguma faafin karo Jamhuuriyadda Federaalka Soomaaliya.
+
+## Qodobka 18aad. 
+**Xorriyadda Ra’yiga iyo Afkaarta**
+1.  Qof kastaa wuxuu xaq u leeyahay in uu yeesho, soo bandhigo ra’yigiisa iyo in uu doono, inuu helo
+oo gudbiyo ra’yigiisa, xog ama afkaar si kastaba.
+2.  Xorriyatu qoolka waxaa ka mid, xorriyadda hadalka, saxaafadda iyo wax walba oo soo gelaya
+warbaahinta elektaroonikada iyo internet-ka.
+3.  Qof kastaa wuxuu xaq u leeyahay in uu muujiyo hal’abuurkiisa faneed, xorriyaddiisa aqooneed iyo
+xorriyadda cilmi-baarista.
+
+## Qodobka 19aad. 
+**Xurmada Hoyga**
+
+1.  Qofna gurigiisa ama meeshii kale ee isaga u gaar ah lama geli karo, lama baari karo, lamana basaasi
+karo amar garsoore oo sababaysan la’aantiis.
+2.  Waxaa waajib ah in amarka garsooraha si toos ah loogu akhriyo degganaha hoyga, baarahana waxaa
+ka reeban ku xadgudubka sharciga.
+
+## Qodobka 20aad. 
+**Xorriyadda Kulanka, Bannaanbaxa, Cabashada iyo Codsi-wadareedka**
+1.  Qof kastaa wuxuu xaq u leeyahay in uu abaabulo, kana qaybgalo kulammo ama bannaabax oo si
+xasilooni ah cabasho loogu muujinayo, iyada oo aan oggolaansho loo baahnayn.
+2.  Qof kastaa wuxuu xaq u leeyahay inuu cabasho qoraal ah u gudbiyo hay’adaha Dawladda.
