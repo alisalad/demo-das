@@ -7,16 +7,23 @@ module.exports = {
     "/": { lang: "Soomaali" },
     "/lang/": { lang: "English" }
   },
-
-
-
   serviceWorker: true,
-
 
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }]],
 
   themeConfig: {
+
+    algolia: {
+      apiKey: '933dc802eaadb0c660ede7aa8f6c59f7',
+      appId: '19YDZA2VXK',
+      indexName: 'dastuurka',
+      algoliaOptions: {
+        hitsPerPage: 10,
+      }
+
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Dastuurka', link: '/dastuurka/' },
