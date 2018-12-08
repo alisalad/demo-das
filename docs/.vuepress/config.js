@@ -7,10 +7,13 @@ module.exports = {
     "/": { lang: "Soomaali" },
     "/lang/": { lang: "English" }
   },
+
+
   serviceWorker: true,
 
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }]],
+
 
   themeConfig: {
 
@@ -21,7 +24,6 @@ module.exports = {
        algoliaOptions: {
          hitsPerPage: 10,
        }
- 
       },*/
 
     nav: [
@@ -30,7 +32,6 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Xeer Hoosaadka', link: '/xeerhoosaadka/' },
     ],
-
     sidebar: 'auto'
 
   }
