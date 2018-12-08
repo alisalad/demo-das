@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0fbb61d443556a89187b3a4e5bc4c172"
+    "revision": "c37a21bbba6756a7d893194a5a2657ae"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "revision": "10ea4533793f9ffec2b75157e6f7f778"
   },
   {
-    "url": "assets/js/4.f5d842a2.js",
-    "revision": "0f9aff03905d0cd27f667c93007e3f9a"
+    "url": "assets/js/4.8f67abff.js",
+    "revision": "ed75700b4bfbba2a13b4f582e9592459"
   },
   {
     "url": "assets/js/5.f216c462.js",
@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
   },
   {
-    "url": "assets/js/app.61c54da5.js",
-    "revision": "cdcd073d34fea287550ce32952e1cf0c"
+    "url": "assets/js/app.3142a6b9.js",
+    "revision": "6b64bb23888bf4412fadfacfc49dfea1"
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "b3904ca9cfa65577925f271559372590"
+    "revision": "daaca4296cc580fef553d8c282f2357b"
   },
   {
     "url": "guide/index.html",
-    "revision": "47fde10f1185e6d359110585ecf7d07b"
+    "revision": "e541b34c2c56a674a5af30d0f708625e"
   },
   {
     "url": "guidebook.jpg",
@@ -77,11 +77,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7b6464702a370285c95ada1431aafd35"
+    "revision": "10e6bf4c7ed6e737183cf93df1c90d10"
   },
   {
     "url": "lang/index.html",
-    "revision": "97ef2b8a66066f18cef0e7587a93c4a5"
+    "revision": "314bd422aee24a67a8e3c0b380bdf6b4"
   },
   {
     "url": "provisional_constitution.png",
@@ -93,7 +93,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "63022975756712b1f0e9aa162f6fb2d2"
+    "revision": "011160d43dfae028007b782c819d51b0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
