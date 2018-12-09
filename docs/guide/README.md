@@ -4,7 +4,7 @@ heroImage: /guidebook.jpg
 description: 'On the Provisional Constitution
 of Somalia'
 actionText: Guide Book →
-actionLink: '/'
+actionLink: '/Guidebook_Provisional_Constitution_Somalia.pdf/'
 footer: Copyright © 2018 | Dastuurka | Developed Ali Salad
 ---
 

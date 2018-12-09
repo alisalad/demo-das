@@ -30,6 +30,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Dastuurka', link: '/dastuurka/' },
       { text: 'Guide', link: '/guide/' },
+      { text: 'Guide Book', link: 'http://www.jccp.gr.jp/_src/sc2322/Guidebook20on20Provisional20Constitution20of20Somalia.pdf' },
       { text: 'Xeer Hoosaadka', link: '/xeerhoosaadka/' },
     ],
     sidebar: 'auto'
