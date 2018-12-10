@@ -1689,3 +1689,534 @@ Federaalka waa arrimo lagu nidaaminayo Dastuurrada maamul-goboleedyada.
 
 1.  Mabda’iyan waa in la iswaafajiyaa Dastuurka Dawladda Federaalka Soomaaliya iyo Dastuurada
 Dawladaha Xubinta ka ah Dawladda Federaalka.
+
+## Cutubka Saddex iyo Tobnaad: Maaliyadda guud. 
+## Qodobka 122aad. 
+**Mabaadi’da Maaliyadda Guud**
+
+Mabaadi’da Guud ee Maaliyadda waxaa ka wada xaajoon doona Dawladda Federaalka iyo Dawladaha
+xubinta ah Dawladda Federaalka si waafaqsan qaab Dastuuri ah.
+
+## Qodobka 123aad. 
+**Bangiga Dhexe ee Federaalka**
+
+1.  Sharci baarlammaanka Federaalku ansixiyay ayaa lagu dhisiyaa Bangiga dhexe ee Federaalka ee Jamhuuriyadda Federaalka Soomaaliya.
+
+2.  Bangiga dhexe ee Federaalka Jamhuuriyadda Federaalka Soomaaliya ayaa masuul ka ah dejinta iyo hirgelinta siyaasadda maaliyadda iyo lacagta, bangiyada oo dhammina waxay u hoggaansamaaan xernidaamiyayaasha uu dhejiyo Bangiga Dhexe ee Federaalka.
+
+3.  Xilaalka ugu mudan hawlaha Bangiga Dhexe ee Federaalka Jamhuuriyadda Federaalka Soomaaliya
+waxa weeye:
+  - (a) Soo saaridda lacagta
+
+  - (b) Hubinta negaanshaha ascaarta
+
+  - (c) Negaanshaha heerka sarrifka; iyo
+
+  - (d) Nidaam bangi oo maangal ah.
+
+  - (4) Siyaasadda maaliyaddu waa inay ku tiirsanaato dhaq-dhaqaaqa suuqa ee aan go’aanno maamul saldhig looga dhigin amah-bixinta.
+
+5.  Bangiga Dhexe ee Federaalka ee Jamhuuriyadda Federaalka Soomaaliya wuxuu leeyahay awood madaxbannaan oo dhammaystiran oo uu ku guto siyaasadda lacagta.
+
+6.  Bangiga Dhexe ee Federaalka waa Bangiga Keydka Qaranka.
+
+## Qodobka 124aad. 
+**Sharci-dejinta Federaalka ee Arrimaha Maaliyadda** 
+
+Sharci Baarlammaanka Federaalku ansixiyo ayaa qeexaya heykal maamul-maaliyadeed oo astaamihiisu ay ka mid yihiin:
+
+  - (a) Habka loo soo bandhigo miisaaniyadda Dawladaha xubinta ka ah Dawladda Federaalkada iyo Jadwalka habraaca miisaaniyad-samaynta Dawladaha xubinta ka ah Dawladda Federaalkayada iyo degmooyinka kaasoo ay tahay inuu ahaado mid daahfuran, la xissabtan leh, wax-ku-oolna ah.
+
+  - (b) In Dawladda Federaalku uu damaanad-qaad siiso deymaha ay weydiistaan Dawlada Dawladaha xubinta ka ah Dawladda Federaalkayada;
+
+  - (c) Habraaca Dawladdu u marayso Qandaraasyada Guud;
+
+  - (d) Baarista xisaabaadka hay’adaha aan xukuumiga ahayn ee Dawladda dhaqaale ka hela;
+
+  - (e) Tallabooyinka guud ee lagama maarmaanka u ah dhaqangelinta cutubkan.
+
+## Qodobka 125aad. 
+**Kaydka Qaranka**
+
+1.  Sharci uu ansixyo Baarlamaanka Federaalku waa in lagu dhiso hay’ad Qaran oo u adeegta kayd
+qaran ahaan. Isla sharcigaasuna dejiyo hannaan sugan oo lagu hubin karo xalaalnimada dakhli
+xeraynta iyo kharash bixinta heer kasta ee hay’adaha Jamhuuriyadda Federaalka. Isla sharcigaasu
+waa inuu ku salaysnaado nidaam xisaabtan adduun ahaan la tijaabiyay lana aqoonsanyahay oo leh
+halbeegyo la xariira kaydinta iyo khrajbixinta maaliyadda oo si iskumid uga dhaqangala meel walba
+oo Jamhuuriyadda Federaalka Soomaaliya ka mid ah.
+
+2.  Hay’adda Kaydka Qaranku waa inuu hubiso u hoggaansanaanta mabda’a ku xusan farqadda (1), waa
+inay ka joojiso xawilladaha lacageed qayb kasta oo Dawladda ka mid ah oo xadgubyo culus geysata
+ama si isdabajoog ah u garab marta sharciga Kaydka Qaranka.
+
+## Cutubka Affar iyo Tobnaad: Nabadda iyo Amniga
+## Qodobka 126aad.
+**Suggidda Amniga Jamhuuriyadda Federaalka ee Soomaaliya**
+
+1.  Xukuumadda Federaalku waxay damaanad-qaadaysaa nabadda, gobannimada iyo ammaanka qaranka ee Jamhuuriyadda Federaalka Soomaaliya iyo bedbaadinta shacbigeeda, iyadoo la adeegsanaayo adeegyada ciidammada amniga oo ay ku jiraan:
+
+  - (a) Ciidanka xoogga dalka;
+  - (b) Nabadsugidda;
+  - (c) Ciidanka booliska;
+  - (d) Ciidamada Asluubta.
+
+2.  Adeegsiga ciidamada amniga waxaa lagu suggaya sharciga loo dejiyey.
+
+3.  Ciidammada qalabka sida ee Jamhuuriyadda Federaalka Soomaaliya waxaa xil ka saaran yahay ilaalinta gobannimada iyo madaxbannaanida Dalka iyo difaaca midnimada dhuleed.
+
+4.  Booliska Federaalka xilkiisu waa ilaalinta nolosha iyo hantida, ammaanka iyo nabadgelyada muwaaddiniinta iyo dadka kale ee deggan Jamhuuriyadda Federaalka Soomaaliya.
+
+5.  Ciidanka booliska ee lagu abuuray sharciyada Dawladaha xubinta ka ah Dawladda Federaalkayada xilkiisu waa ilaalinta nolosha iyo hantida muwaaddiniinta iyo dhawrista xasilloonida iyo ammaanka degaannadooda iyagoo kaligood ah ama kaashanaya ciidammada booliska federaalka.
+
+6.  Hay’adaha amniga qaranka oo ah kuwa hubka sita waxaa kormeeraya oo koontaroolaya hay’adaha
+rayid ah.
+
+## Qodobka 127aad. 
+**Mabaadi’ida Ciidamada Amniga**
+
+1.  Waa in ay Ciidammada Amniga dhawraan mabaadi’da soo socota:
+
+  - (a) Mihnadda ciidannimo, anshax-wanaag iyo waddaniyad;
+  - (b) Dhawrista Talinta Sharciga, hay’adaha dimoqoraaddiga ah iyo xuquuqda asaasiga;
+  - (c) U-heellanaanta ilaalinta Dastuurka Jamhuuriyadda Federaalka Soomaaliya;
+  - (d) Furfurnaan iyo oggolaansho laxisaabtan;
+  - (e) Dhexdhexaadnimo xag siyaasadeed; iyo
+  - (f) Xubnaha ciidanka waa in lagu tababara dhaqan gelinta Dasturkan, sharciyada dalka iyo heshiisyada caalamiga ee Jamhuriyadda Federaalka Soomaaliya ay qayb ka tahay.
+
+2.  Muwaadin kasta oo Soomaali waxa uu xaq u leeyahay in uu ka qayb qaato jagooyinka iyo jaranjarooyinka darajo ee Ciidammada iyada oo aan la takooreyn , iyadoo la ilaalinaaya xuquuqda haweenka ee arrintan la xiriirta.
+
+## Qodobka 128aad. 
+**Ku-tagrifalidda Awoodeed**
+
+Gaboodfallada xuquuqda Aadanaha ee la tuhunsan yahay in ay xubno ka tirsan Ciidammada Amniga inay dad rayid ah ka galeen waa in dacwadooda lagu qaadaa Maxkamadaha rayidka ah.
+
+## Qodobka 129aad. 
+**Xafiiska Gardoonka**
+
+1.  Dastuurkan wuxuu dhisayaa xafiiska Gardoonka (Ombudsman) waa Hay’adda ay dadweynuhu u geysan karaan cabashooyinkooda ku saabsan xadgudubyada xubno ka tirsan ciidamada and maamulka Dawladda.
+
+2.  Hay’adda Gardoonku waxay baaritaan iskeed u bilaabi kartaa haddii ay jiraan tuhummo la xariira xadgudubyo ay ciidammadu u geysteen qof and koox ka mid ah bulshada, haddii ay qanacdo inu jiro faldembiyeedna waxa ka oogi karta dacwad maxkamadda ku habboon.
+
+3.  Sharci gaar ah ayaa xaddidi doona awoodaha iyo waajibaadka Hey’adda Gardoonka.
+
+## Qodobka 130aad. 
+**Sharciga Hay’adaha Amaanka**
+
+Labada aqal ee Baarlamaanka ayaa soo saaraya xeer maamulaya qaab dhismeedka, shaqada iyo
+heerarkooda (Stands) hay’daha amaanka ee Jamhuuriyadda Federaalka Soomaaliya.
+
+## Qodobka 131aad. 
+**Xaalad Deg degga ah**
+
+1.  Xaalad deg deg ah waxaa la soo rogi karaa keliya haddii ay lagama-maarmaan u tahay wax ka qabashada xaalad ba’an oo ka dhalatey dagaal, weerar, fallaaganimo, kala-dambeyn la’aan, masiibo dabiici ah ama arrin kale oo deg deg ah oo ba’an.
+
+2.  Xaalad deg deg ah waxaa looga dhawaaqi karaa guud ahaan ama qayb ahaan dalka, laakiin waa in aanu ka badnaan inta loogu baahan yahay in wax looga qabto xaaladda.
+
+3.  Madaxweynaha isaga oo tallaabadiisa ku saleynaya codsi uu u soo jeediyey Golaha Wasiirrada waxaa
+uu ku dhawaaqi kara xaalad deg deg ah oo lagamamaarmaan ah, taas oo markaa ka dib ay kaga doodi karaan, oo ayna ku ansaxin karaan, labada Aqal ee Baarlamaanka Federaalka muddo 21 maalmood
+gudahood ah ka dib marka lagu dhawaaqo xaaladda. Doodaha Baarlamaanka Federaalka waxaa
+ay ahaanayaan kuwo aan qarsoodi ku dhicin oo dadweynaha u furan haddii aaney taasi diideynin
+xaaladda jirta.
+
+4.  Baarlamaanka waa uu oggolaan karaa ama waxaa uu u kordhin karaa waqtiga isaga oo gaarsiinaya
+muddo aan ka badneyn saddex bilood. Haddii Baarlamaanka Federaalka uusan oggolaan ama uusan
+waqti ku darin xaalad deg deg ah, markaa xaaladda deg degga ah ma jireyso.
+
+5.  Ku-dhawaaqista xaaladda deg degga ah waxaa ay laanta fulinta siin kartaa awoodo gaar ah oo loogu
+baahan yahay wax ka qabashada xaaladda oo keliya.
+
+6.  Awoodaha lagu bixiyo xaaladda deg degga ah gudaheeda kuma jirayaan awoodo loogu xadgudbayo xuquuqaha ku jira dastuurkan, haddii xadgudubkaasi aanu gebi ahaanba lagamamaarmaan u ahayn ujeeddooyinka wax ka qabashada xaaladda deg degga ah.
+
+7.  Saxnaanta ku-dhawaaqista xaaladda deg degga ah, iyo habraacyada loo maro ku dhawaaqista, waxaa
+lala tiigsan karaa maxkamad.
+
+## Cutubka 15: Qodobbada Kama Dambeysta ah iyo kuwa kumeel gaarka ah
+**Madaxa Koowaad: Waxka Beddelka Dastuurka**
+
+## Qodobka 132aad. 
+**Qodobada ku dabaqma wax ka beddelka Dastuurka ee lasoo jeediyay dhammaadka xilliga koowaad ee Baarlamanka Federaalka**
+
+1.  Marka laga soo tago faqradda (2), ka hor ama ka damba inta aanu dhammaan muddo xileedka
+koowaad ee Baarlamanka Federaalka, Midkoodna Labada aqal ee Baarlamaanka ma soo jeedin karo
+wax ka beddelka Mabaadi’da aasaasiga ah ee ku xusan cutubka 1aad ee dastuurkan,
+
+2.  Iyadoo shardi ahaan la eegayo Qodobka 1aad, isla markaana laga reebayo wixii isbeddel ah ee
+lagu sameynayo xuduudaha maamul goboleedyada marka la eego qodobka 49aad, Aqal ka mid ah
+Baarlamaanka Federaalku waxaa uu soo jeedin karaa wax ka beddelka Dastuurka habka ee ku sugan
+qodob hoosaadyada iyadoo la raacayo nidaamka ay dhigayaan faracyada Qodobbada (3) ilaa (9).
+
+3.  Dawladda Federaalka ama tan gobolada, xubin ka mid ah Baarlamaanka Federaalka ama codsi ay
+saxiixeen ugu yaraan 40,000 oo muwaadiniin ah ayaa lagu bilaabi karaa habraaca wax ka beddelka .
+
+4.  Cidda u doodeysa wax ka beddelka Dastuurka hab waafaqsan faqradka (2) waxay soo jeedin karaan
+nooca wax ka beddelka ay rabaan iyaga oo hor keenaya mid ka mid ah labada aqal ee Baarlamaanka
+Federaalka.
+
+5.  Haddii badiba xubnaha aqalka wax ka beddelka la soo jeediyay ee Dastuurka la horkeenaya ay
+aqbalaan wax ka beddelkaas marka koowaad ama marka xigta ee ay akhriyaan, guddoomiyaha
+Golaha Shacabka iyo guddoomiyaha Aqalka Sare ee Baarlamanka Federaalka ee Soomaaliya waxa uu
+mid kasta magacaabayaa 10 xubnood oo aqalkiisa ka tirsan oo ka mid noqdaguddi wadajir ah oo ka
+kooban labada aqal.
+
+6.  Guddiga wadajirka ah ee lagu magacaabay hab waafaqsan faqradda 5 waxay --
+
+  - (a) Dib-u-eegis ku samayn doonaan soo jeedinta ku saabsan wax ka beddelka;
+  - (b) Dadka ku wargalin doonaan soo jeedinta;
+  - (c) Hubin doonaan in ay jirto fursad dad weyne oo ku filan in lagaga doodo;
+  - (d) La tashan doonaan xubnaha dadwaynaha;
+  - (e) Hubin doonaan in xubnaha dadwaynuhu helaan fursad ku filan oo ay ugu soo bandhigi karaan faalooyinkooda iyo soo jeedinahooda guddiga wadajirka ah; iyo
+  - (f) Kala shaqeyn doonaan sharci-dejinta maamul goboleedyada xubnaha ka ah federaalka iyo in lagu daro wixii maamul goboleedyadu soo gudbiyeen oo la is-waafajiyay soo jeedinta wax ka beddelka , goorta arrini taabanayso danaha gobolka.
+
+7.  Laba bilood gudahood markii la magacaabay, guddiga wadajirka ahi waxay warbixin u gudbin
+doonaan midkasta oo ka mid ah labada aqal ee Baarlamaanka Federaalka ah.
+
+8.  Baarlamaanka Federaalku waxaa uu aqbalayaa wax ka beddelka la soo jeediyay kaliya intii lagu
+ansixiyay cod kama danbaysa ka dib codkaasoo ay u qaadeen ugu yaraan sadex meelood laba
+meelood xubnaha jira aqalka shacabka, iyo cod kama dambays ah oo ay u qaadeen ugu yaraan sadex
+meelood laba meelood xubnaha jira ee Aqalka Sare ee Baarlamaanka Federaalka.
+
+9.  Aqalka Baarlamaanka, waxa uu cod kama dambays ah u qaadi karaa sadex bilood iyo kabadan marka
+ay ka soo wareegto warbixinta Guddiga wadajirka ah sida uu dhigayo faqradda (7).
+
+10. Haddii baarlamaanku ansixiyo hal iyo ka badan oo waxka beddelada la soo jeediyay ah hab waafaqsan qodobkan iyo qodobka 136 ee khuseeya dibu eegista Dastuurka kama dambaynta ah, waxa loo qaadi doonaa afti dastuurka wax ka beddelka lagu sameeyey. 
+
+## Qodobka 133aad. 
+**Qodobada ku dabaqma wax ka badelka Dastuurka ku meel gaarka ah Jadwalka koowaad (C), ama sharci lagu xusay jadwalka koowaad (D) ee Dastuurkan ka hor inta aanay dhammaan xilliga koowaad ee Baarlamaanka Federaalka: Guddida la socodka/kormeerka**
+
+1.  Qodobkan iyo Qodobka 134 ––
+
+  - (a) ‘Guddiga la-socodka’ waxaa loola jeedaa Guddiga ku meel gaarka ah ee dib-u-eegista iyo lasocodka hirgalinta Dastuurka.
+  - (b) ’Guddiga dib-u-eegista iyo Hirgalinta’ waxaa loola jeedaa Guddiga Madaxa Bannaan ee dib-ueegista iyo Hirgalinta Dastuurka ku meel gaarka ah.
+
+2.  Dastuurkani waxaa uu abuurayaa Guddi Lasocod kaasi oo ah Guddi ka tirsan Baarlamaanka Federaalka.
+
+  - (a) Aqal kasta oo Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka ee Soomaaliya ka tirsan waxaa uu u dooranayaa shan ka mid ah xubnihiisu in ay ka qayb noqdaan xubnaha Guddiga La-socodka. Intaa waxaa dheer, maamul kasta oo jira qaybna ka ah Jamhuuriyadda Federaalka ee Soomaaliya kaasoo u qalma in uu noqdo maamuul ka mid ah Federaal marka la fiiriyo Dastuurka Soomaaliya waxa uu soo magacaabi doonaa hal ergay oo ka socda maamulka kaasoo xubin ka noqonaya Gudida la-socodka.
+
+  - (b) Guddiga L-socodku waxay la socon doonaan, tilmaami doonnaan ansixinna doonaan hawlaha Guddiga dib-u-eegista iyo Hirgalinta, iyo, guud ahaan hirgalinta Dastuurka.
+
+3.  Xubnaha Guddiga la-socodku waxay dooran doonaan guddoomiyahooda iyaga oo ka dooranaya xubnaha Guddiga la-socodka.
+
+4.  Muddo aan ka badnayn bil markii Guddiga la-socodku ay doorteen Guddoomiyahooda, Guddiga La-socodku waxay ku samaysan doonaan cod aqlabiyad ah xeerarka ay ku shaqaynayaan.
+
+5.  Guddiga La-socodka/Kormeerka waxaa uu muddo ka dibba, uu Guddiga Dib-u-eegista iyo Hirgelinta u xilsaarayaa qoris shuruuc qabyo ah oo ku saleysan baahiyaha Jadwallada Koowaad (A) iyo Koowaad (B) iyo wixii kale ee baahiyo ah ee loo arko lagama maarmaan iyada oo la raacayo natiijada ka soo baxda ansaxinta ku-meelgaarka ah e Golaha Ansixinta Dastuurka ah ee Qaran sida uu dhigayo Borotokoolka Dhisaya Golaha Ansixinta Dastuurka Qaran.
+
+6.  Marka uu u xilsaarayo qoris hindise sharci qabyo ah ee lagu xusey faqradda (5), Guddiga Sixidda/ Kormeerka waxaa uu mashruuca mudnaan u kala siinayaa sida soo socota: Waxaa uu --
+
+  - (a) Lafagurayaa mashruuca isaga oo ka eegaya dhibaatada bulsho ee wax ka beddelka Dastuurka ee la soo jeediyey ama Mashruuca-sharci uu wax ka qabanayo;
+
+  - (b) Siinayaa mudnaan sare hindise sharci qabyo ah oo higsanaya in uu beddelo hab-dhaqan/ dabeecad.
+
+      - (i) Ammaanka qaranka, bedqabka dadweynaha, ilaalinta xuquuqaha Aadanaha ee aasaasiga ah, ama Deegaanka
+      - (ii) Sinnaan la’aan dhinaca tayada nolosha ah ee qaybaha kala duwan ee dadka Soomaalida ah haysata, oo ay ka mid tahay sinnaan la’aanta dakhli, u sinnaan la’aanta daryeelka caafimaadka, iyo u sinnaan la’aanta waxbarashada;
+      - (iii) Horumarka dhaqaale, oo ay ka mid tahay helidda shaqooyin, hubinta in qayb caddaalad ku dhisan oo ka mid ah faa’iidada ay helaan maalgeliyeyaasha ajnebiga ah dib loogu maalgeliyo Jamhuuriyadda Federaalka Soomaaliya, iyo hubinta in Muwaadiniinta Soomaaliyeed ay helaan aqoonta ku saabsan, ayna helaan shaqooyin la xiriira adeegsiga tiknolojiyada cusub, iyo
+      - (iv) In maaliyadda ummadda laga ilaaliyo musuq-maasuq iyo si xun u adeegsi.
+
+  - (c) Siinayaa mudnaan tan ka yar mashaariicda ku saabsan dhibaato bulsho oo la xiriirta mas’uuliyad Wasaarad jirta marka laga reebo kuwa la xiriira dhibaatooyinka bulsho ee mudnaanta sare leh;
+
+  - (d) Ilaa intii suuragal ah iyada oo sal looga dhigayo xisaabinta sax ah iyada oo la isu eegayo
+kharashka ku baxaya iyo faa’iidada bulshada ay ka heleyso, u qoondeeynaya mudnaan isu
+dhiganta mashaariicda sharci-qorista u eg in mudnaantoodu ay isku mid tahay,
+
+  - (e) Ku martiqaadaya Xubnaha labada Aqal ee Baarlamaanka Federaalka ee Jamhuuuriyadda
+Soomaaliya in ay ka munaaqashoodaan kala mudnaan-siinta wax ka beddelka Dastuurka iyo
+mashaariic-shuruuc la soo jeediyey;
+
+  - (f) Sanad kasta ay Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka ee Soomaaliya u
+gudbinayaan si uu u ansaxiyo, wax uga beddelo ama u diido, Barnaamij Qorista Shuruuc
+markaa jira ee mudnaanta leh ee ku saabsan wax ka beddel Dastuuri oo la soo jeediyey
+iyo mashaariic-sharci la soo jeediyey, si waafaqsan sida Guddiga Kormeerka/Sixidda uu
+mashaariicda u qoondeeyo in uu qoro Guddiga Dib-u-eegista iyo Hirgelinta, iyo in muddo
+ka dib uu wax ku daro ama wax ka dhimo barnaamijkaa hadba sida xaaladda markaa jirta ay
+keeneyso.
+
+7.  Inta Guddiga Dib-u-eegista iyo Hirgelinta, si waafaqsan faqradda (6), uu dhammeystirayo sharci qabyo ah la weydiistey in uu qoro, sida ku xusan Qodobka 134, waxaa uu Guddiga Kormeerka/ Sixidda u soo gudbinayaa si uu dib ugu eego wax ka beddelka qabyada ah ee Dastuurka ah ama mashruuca-sharci, oo ay la socoto Warbixinta lagu xusey Qodobka 134(7)(b).
+
+8.  Gudida lasocodku waxa ay -
+
+  - (a) Dib-u-eegis gudaha ah ku sameynayaan Sharci qabyo ah oo la xiriira wax ka bedalka Dastuurka iyo warbixinta la socota hab waafaqsan faqradda 7;
+
+  - (b) In dadweynaha ku wargaliso soo jeedinta iyo warbixinta;
+
+  - (c) In ay hubiso in fursad ku filan oo dadweynuhu kaga doodi karaan jirto ;
+
+  - (d) In ay la tashato xubnaha dadwaynaha iyo xubnaha kale ee Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka ee Soomaaliya;
+
+  - (e) Hawl gali golayaasha sharci dejinta ee Dowlad-goboleedyada xubnaha ka ah federaalka kuna daraan waxyaalaha ay soo gudbiyeen oo lays waafajiyey wax ka badelka la soo jeediyey, haddiii arrintu taabanayso danaha gobolka.
+
+9.  Haddii wada tashi ka dib sida ku xusan faqradda (8) guddiga lasocodku go’- aamiso in ay ku darto
+soo jeedinno kala duwan wax ka beddelka Dastuurka ama sharci qabyo ah ee la soo jeeiyay, ay ku
+celiyaan wax ka bedelka dastuurka la soo jeediyey ama sharci qabyo ah oo gudida dibu eegista iyo
+hirgalinta for redrafting, with instructions.
+
+10. Haddii markaa ka dib marka la sameeyo latashiga ku xusan faqradda (8) guddida la socodku
+go’aamiso in ay gudbiso wax ka bedelka Dastuurka ee la soo jeediyay ama sharci qabyo ah si loo
+ansixiyo, waxa ay u gudbin doontaa wax ka bedelka Dastuurka ee la soo jeediyay guddoomiyaha
+aqalka shacabka, iyada oo warbixintuna la socota, si hore loogu sii socdo hab wafaqsan Dastuurkan.
+
+11. Guddida la -socodku wax ay ku wargalin doontaa saddexdii biloodba mar labada aqal horumarka
+laga sameeyey dhamaystirka mashruuca lagu xusay jadwalka kow (C) iyo kow (D) iyo sida uu
+dhigayo marka la fiiriyo wixii ka soo baxay golaha Dastuurka ee qaranka sida ku dhigan xeerka lagu
+abuurayo golaha Dastuurka ee qaranka.
+
+12. Guddiga la socodka/kormeerka waxaa muddadiisu dhammaaneysaa marka lagu ansixiyo kala dirkiisa
+aqlabiyad fudud (50% lagu daray 1) tirada mid kasta oo ka mid ah labada aqal ee Baarlamaanka
+Federaalka ee Jamhuuriyadda Federaalka ee Soomaaliya,
+
+## Qodobka 134aad. 
+**Qaybaha ku dabaqma wax ka beddelka Dastuurka ee lasoo jeediyay ka hor inta aanay dhammaan muddada koowaad ee wakhtiga Baarlamaanka Federaalka: Guddiga dib-u-eegista iyo Hirgalinta**
+
+1.  Dastuurkani waxaa uu abuurayaa Guddiga ee dib-u-eegista iyo Hirgalinta iyaga oo ah guddi hoos tagaya guddida la socodka hab waafaqsan qodobka 133.
+
+2.  Bilawga muddada xileed ee koowaad ee Aqalka Baarlamaanka Federaalka Jamhuuriyadda Federaalka ee Soomaaliya, Wasiirka u xilsaaran ayaa u soo magacaabi doona Ra’iisul Wasaaraha shan xubnood oo ka mid noqon doona Guddiga Dib-u-eegista iyo Hirgalinta Dastuurka kuwaasoo wasiirka u xilsaaran uu kasoo xulayo liis ay soo diyaariyeen Golaha Wasiirrada. Waxaa intaa dheer, Dawlad goboleedyada jira ee Xubnaha ka ah Federaalku waa in ay u soo magacaabaan mid waliba hal ergay oo kale oo dheeraad ah guddida dibu eegista iyo hirgalinta , taasoo ku salaysan isla shuruudda doorashada.
+
+3.  Wasiirka u xilsaaran waxaa uu dooran doonaa magacaabista qof aan xubin baarlamaan ahayn, kaasoo buuxiya shuruudaha soo socda oo lagu magacaabayo Guddiga Dib-u-eegista iyo Hirgalinta:
+
+  - (a) Leh anshax iyo sumcad wanaagsan;
+  - (b) Shahaado ka sita jaamacad la aqoonsan yahay ;
+  - (c) Ku muujiyey karti heerar sare dhinaca maamulka dadweynaha ama xagga sharciga ee Soomaliya dhexdeeda, ama
+  - (d) In uu u leeyahay aqoon iyo khibrad ugu yaraan toban sanno arrimo la xiriira mid ka mid ah kuwa soo socda:
+      - (i) Sharciga,
+      - (ii) Maamulka dadweynaha ,
+      - (iii) Dhaqaalaha ,
+      - (iv) Jinsiga
+      - (v) Xuquuqda Aadanaha , iyo 
+  - (e) In uu shaqo wanaagsan ka soo qabtay shaqadiisa ama majaalka uu ku takhasusay qofka la
+magacaabay.
+
+  - (f) In uu leeyahay waaya-aragnimo badan oo la xiiriita sharci qorista.
+
+4.  Ra’iisul Wasaaruhu waxaa uu soo hordhigi doonaa magacyada dadkii la soo magacaabay mid
+kasta oo ka mid ah labada aqal ee Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka ee
+Soomaaliya 15 maalmood gudahood marka Golaha Wasiirrada la abuuro, iyaga oo afar iyo toban
+cisho gudahood ku ansixin doona ama ku diidi doona mid ama ka badan oo ka mid ah dadka la soo
+magacaabay.
+
+5.  Haddii mid ka mid ah labada aqal diido qof la soo magacaabay, Wasiirka u xilsaaran waxaa uu si
+waafaqsan faqradda (3) u soo magacaabi doonaa beddelkii qofkaas, intaa ka dibna waxaa uu raaci
+doonaa habraaca ku dhigan faqradaha 4 ilaa 6.
+
+6.  Ka dib marka Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka ee Soomaaliya uu doorto
+shan qof oo lasoo magacaabay hab waafaqsan qodob-hoosaadyadaa (4) iyo (5) , Ra’isul wasaaruhu
+waxaa uu u astayn doonaa mid ka mid ah dadkaas la soo magacaabay Guddoomiye, waxaanu u diri
+doonaa magacyadooda madaxwaynaha isagoo isna u magacaabi doona Guddoomiye qofka Ra’isul
+wasaaruhu uu u asteeyey, labada kalena, Xubno ka tirsan Guddiga Dib-u-eegista iyo Hirgalinta.
+
+7.  Guddiga Dib-u-eegista iyo Hirgalintu waa in ay:
+
+  - (a) Sida laga yaabo in uu Guddiga La-Socodku amro, waxaa loo baahan karaa in wax laga beddelo
+Dastuurka sida ku qoran Jadwlka Koowaad (C), ama la soo jeediyo sharci qabyo ah sida lagu
+magcaabay Jadwalka (D), ama sidii kale ee hadba loo baahdo iyada oo daba socota waxa ka
+soo baxa Golaha Ta’siisiga ah ee Qaranka.
+
+  - (b) diyaariyaan warbixin daraasadeed oo lagu lifaaqo wax ka bedelka lasoo jeediyey ama sharci
+qabyo ah. Warbixintaasoo, hab waafaqsan cadaymaha, sababaynaysa waxka bedelka lasoo
+jeediyey ama mashruuca sharci kana saadaalinaysa ixtimaalka in wax ka bedelka lasoo jeediyay
+ama mashruuca ay ka dhalan karto hab dhaqankii la rabay, iyo in hab dhaqankaasi uu dib u
+qaabayn ku sameeyo dhibaatada bulsho ee wax ka bedelka la soo jeediyey ama mashruuca
+sharci uu higsanayo;
+
+  - (c) sameeyaan daraasadda sharci iyo ta xaqiiqo ee lama huraanka ah si ay u gudato xilalka ku
+xusan baragaraafyada (a) iyo (b);
+
+  - (d) sameeyaan hab waafaqsan Qodobka 133 (7), u gudbi guddiga la socodka wax ka bedelka
+lasoo jeediyay oo dhamaystiran ama mashruuca sharci la-socda warbixininta lagu xusuy
+baragaraafka (b) u gudbiyaan Guddiga La-socodka;
+
+  - (e) warbixin ka siiso sadexdii biloodba mar ama marka ay ka codsato Guddiga la socodka
+horumarka laga gaarey dib-u-eegista iyo hirgalinta lagu Dastuurkan iyo caqabad kasta oo ka
+hor imanaysa geeddi-socdka dib-u-eegista iyo hirgalinta.
+
+  - (f) in ay Guddoomiyaha Garsoorka ee Maxkamadda Dastuurka kala shaqeeyaan dastuurinimada soo-jeedinta, ; iyo
+
+  - (g) iyada oo loo fiirinayo hadba inta miisaaniyaddu le’eg tahay, in la qoro shaqaale ku filan in ay u
+guttaan xilkooda hab waafaqsan Dastuurkan.
+
+## Qodobka 135aad. 
+**Xilalka iyo Muddeynta Hay’adaha mudnaanta sare leh iyo Guddiyada Madaxa Bannaan ee uu Baarlamaanka Federaalku ee Jamhuuriyadda Federaalka ee Soomaaliya Aasaasayo**
+
+1.  Haddii aan si kale loogu sheegin Dastuurkan, Baarlamaanka Federaalku ee Jamhuuriyadda Federaalka ee Soomaaliya wuxuu magacaabayaa xubnno aan tiradoodu ka badnayn sagaal oo ay yeelan doonaan guddi walba oo Madax Bannaani.
+
+2.  Baarlamaanka Federaalku wuxuu asaasayaa hay’adahan iyo Guddiyadan Madaxa Bannaan ee soo socda iyadoo muddeeynta halkan ku cadna la raacayo, kuwaasoo hirgelaya marka la aasaaso Golaha Wasiirrada:
+
+  - (a)   Golaha Adeegga Garsoorka - 30 maalmood
+  - (b)   Maxkamadda Dastuurka - 60 maalmood
+  - (c)   Guddiga Xuquuqul Insaanka, Ilaaliyaha/kormeeraha (Ombudsman), Guddiga Amaanka Qaranka, Guddiga Ilaalinta/dabagalka nabadgelyada ee rayidka ah – 45 maalmood
+  - (d)   Guddiga Adeegga Baarlamaanka - 15 maalmood
+  - (e)   Guddiga Qaranka ee Madaxa Bannaan ee Doorashooyinka iyo Guddiga Xuduudaha iyo Federaaleynta - 60 Maalmood.
+  - (f)   Guddiga ka Dhexeeya Dawlad Goboleedyada - 1 Sanno
+  - (g)   Guddiga Runta iyo Dib u Heshiisiinta - 30 Maalmood
+
+3.  Si hadaba loogu sahlo Baarlamaanka Federaalka ah in uu hawlihiisaa guto, Guddiga dib-u-eegista
+ee Farsamo ayaa soo diyaarinaya qoraalka sharciga loogu baahan yahay in lagu abuuro guddiyadaa
+iyadoo la raacayo Dastuurkan, si Guddiga Kormeerka iyo Guddiga dib-u-eegista iyo Hirgelintu ay
+u soo gabagabeeyaan uguna gudbiyaan Baarlamaanka Federaalka si uu uga sii baaran dego , si aan
+looga dib dhicin waqtiyada kama danbeysta ah ee ku cad faqradda (2) kore.
+
+## Qodobka 136aad. 
+**Qaadashada wax ka bedelka Dastuurka inta lagu guda jiro muddo xileedka koowaad ee Aqalka Shacab; ansixinta Dastuur kama dambays ah**
+
+1.  inta lagu guda jiro muddo xileedka koowaad ee Baarlamaanka Federaalka ee Soomaaliya,
+baarlamaanka Federaalku waxaa uu qaadan doonaa waxkabeddelka la soo jeediyay ee Dastuurka ku
+meel gaarka ah kaliya intii lagaga ansixiyay kadib cod kama dambays ah aqalka shacabka codkaasoo
+u dhigma sadex meeloodow laba meelood , iyo cod kama dambaysa ah oo ay u qaadaan Aqalka Sare
+ee Baarlamaanka Federaalka ah, codkaasoo ugu yaraan ah sadex meeloodow laba meelood xubnaha
+jira.
+
+2.  Afti la qabtay taasoo khusaysa Dastuurka ku meel gaarka ah wax laga bedelay, oo la qabto
+dhammaadka mudada xilka ee koowaad ee Golaha Shacabka, codbixiyayaasha jamhuuriyadda
+Soomaaliya waxa ay ku qaadan karaan Dastuurka cusub cod aqlabiyad ah oo ay ku taageeraan wejiga
+kama dambaysta ah ee Dastuurkan.
+
+## Qodobka 137aad. 
+**Dhaqangelinta Dastuurka**
+
+1.  Ka dib dhammaadka muddada koowaad ee Baarlamaanka Federaalka ee Jamhuuriyadda Soomaaliya,
+Baarlamaanka Federaalku waxaa uu dhisayaa Guddi dib- u-eegis ku sameeya hirgelinta iyo shagaynta
+Dasturka jamhuuriyadda Federaalka Soomaliya, marka lagu ansixiyo hab waafaqsan qodobka 136
+ee ku saabsan qaadashada Dastuurka kama dambaysta ah, iyo in lala tashado dawladaha xubnaha ka ah Federaalku ka koobanyahay iyo dadweynaha wax ka beddelidda in lagu sameeyaa ay suurtogalka tahay. 
+
+2.  Lix bilood gudahood intii la magacaabay ka dib, guddigu waxaa uu u soo gudbin doonaa warbixintiisa golaha Baarlamaanka Federaalka iyo , dowldaha Federaalka ka midka ah iyo dadwaynaha.
+
+3.  Kaddib markuu uruuriyo kana, baaraan-dego aragtiyada maamulada Federaalka ka tirsan, dadwaynaha, iyo marka la qiimeeyo lalana socdo hirgalinta iyo dabaqaadda Dastuurka kama dambaysta ah iyo muddo aan ka yarayn lix bilood ka hor inta aanay dhammaan mudada xilaka ee marka labaad ee Baarlamaanka Federaalka soomaliyeed, guddigu, iyaga oo la tashanaaya guddoomiyaha maxkamadda Dastuuriga ah waxa ay hubin doonaan in eray iyo ujeedaba laixtiraamo Dastuurka, wuxuuna Baarlamaanka Federaalka u soo gudbinayaa talooyinkiisa haddiiba ay jiraan, si uu wax uga beddelo Dastuurka iyadoo loo hab-raacayo qodobka 132aad ee dastuurkan
+
+4.  Haddii Baarlamaanku Federaalka ihi ansixiyo mid ama ka badan oo wax ka bedelka la soo jeediyay ah hab waafaqsan Qodobka 132aad, Dastuurka Jamhuuriyadda Federaalka Soomaaliya ee wax laga bedely;
+
+5.  Haddii aqlabiyadda kuwa u codaynaya aftida lagu xusay faqradda (4) ay u codeeyaan Dastuurka wax ka bedelka lagu sameeyey, Dastuurkaasi waxa uu noqonayaa Dastuurka jamhuuriyadda faderaalka ah ee Soomaaliya.
+
+## Madaxa Labaad: Qodobbo Qubane Ah
+## Qodobka 138aad. 
+**Ka Hirgelyaaa Dastuurkan**
+
+1.  Dastuurkani waxa uu dhaqan galayaa maalinta ugu horaysa maalinta koowaad marka ay ansixiyaan
+Golaha qaran Ansixinta Dastuurka ah oo isugu yimi hab waafaqsan khariidada nabadda, heshiisyadii
+Garawe I iyo Garowe II, Galkacayo, Addis Ababa, wareegtadii madaxwayanaha iyo kuwa kale ee
+khuseeya.
+
+2.  Dhaqangalka qodobada la xiriira Aqalka Sare ee Baarlamaanka Federaalka meelaha lagu xusay
+Dastuurkan, dib ayaa loo dhigay inta laga gaarayo sameynta dhammaan dawladaha xubnaha ka
+ah dawladda federaalka iyo inta kuwa matalaya loo dhaarinaayo xilka ayagoo ah xubno ka tirsan
+xubnaha Aqalka Sare ee Baarlamaanka Federaalka. Inta uu laalan yahay sameynta Aqalka Sare ee
+Baarlamaanka Federaalka, Golaha Shacabka ayaa qabanayo dhammaan waajibaadka iyo hawlaha
+Dastuurkan siiyay Aqalka Sare wuxuuna u shaqeynayaa sida Baarlamaanka ka kooban Hal Aqal,
+si daacadnimo ku jirtana maanka ugu haynayaa Maabaadi’da Aasaasiga ee awood qaybsiga ee
+Nidaamka Federaalka lagu qeexay Qodobka 3 (3) ee Dastuurkan iyo danaha gobolada Soomaaliyeed
+marka la gaarayo go’aanada.
+
+## Qodobka 139aad. 
+**Sharciyadda oo Weli Socda**
+
+Dhammaan xeerarka dhaqan galka ah ka hor inta aanu hirgalin waxa ay ahaanayaan qaar sii shaqeeya
+waxaana laga dhadhansan doonaa laguna dabaqi doonaa waxka beddeladaas, qaadashadaas, in la cayimo
+iyo in wax laga soo reebo hadba sida looga maarmi waayo si loo waafajiyo Dastuurkan ilaa goorta
+xeerarkaas wax ka beddel lagu samaynayo ama meesha laga saarayo. 
+
+## Qodobka 140aad. 
+**Waajibaadka Caalamiga Ah** 
+
+Inta heshiiska wax waajibinaya ee jirey taariikhda uu Dastuurkan dhaqan gelayo uu waqtigiisu dhacayo
+ama wax laga beddelayo, waajibka heshiiskaa ka dhashey sidiisa ayuu u jirayaa.
+
+## Qodobka 141aad. 
+**Aftiyaha** 
+
+1.  Haddii ay noqoto in la qaado afti uu amray Dastuurkan ama sharci kale ama sababo kaleba loo
+qaadayo, cidda hirgalinaysa aftidu waa in ay hubisaa in aftida lagu hubiyo in dhammaan dadka
+codbixin karaya ay fursad u helaan ay ku muujiyaan aragtidooda si xor ah, toos ah, qarsoodina ah si
+waafaqsan sharci Baarlamaanku ansixin doono kaasoo sugaya hab raaca aftida.
+
+2.  Cidda hirgalinaysa aftidu waxay hubin doontaa in –
+
+  - (a) Aftidu waa in ay u waydiisaa su’aasha si cad, hab loogu talagalay in lagu helo aragtida dhabta ah ee codbixiyaha iyada oo aanay daah saarayn arimaha ay tahay in cod bixiyuhu kala doorto; iyo
+  - (b) Waa in aysan su’aalaha qaabka loogu dhigay warqadaha codeynta iyo habraaca aftiduba aysan ku hogaamineyn cod-bixiyaha.
+
+## Qodobka 142aad. 
+**Dawladaha Xubnaha ka ah Federaalka ee Ka jira Soomaaliya**
+
+1.  Ilaa inta laga gaarayo goorta dhammaan o Dastuurada dawladaha xubnaha ka ah federaalka la waafajinyo Dastuurka Dawladda federaalk maamulada jira ka hor inta aan la qaadan Dastuurkan ku meel gaarka ahi waxa ay sii haysanayaan awoodaha Dastuurkoodu siinayo.
+
+2.  Dawladaha xubinta ka ah dawladda Federaalku waa in lala tashadaa marka la qaadanayo go aanno la xiriira nidaamka fedeaalka, iyo qaabka nabadgalyada.
+
+## Qodobka 143aad.
+**Ka Noqoshada Axdiga Federaalka**
+
+Axdiga Federaalka ee ku meel gaarka ahi waxa ay mudadiisu dhammaanaysaa marka lakala diro Golaha
+Ansixinta Dastuurka ee Qaranka.
+
+# JADWALKA KOOWAAD (A) - CALANKA SOOMAALIYA
+![calanka Soomaaliya](/calanka.png)
+
+## JADWALKA KOOWAAD (B) - ASTAANTA JAMHUURIYADDA
+![Astaanta Jamhuuriyadda](/somalia.png)
+
+## JADWALKA KOOWAAD (C) - KALA GUURKA: WAX KA BEDELKA DASTUURKA EE SOOJEEDIYAY EE XILLIGA KOWAAD EE BAARLAMAAMKA FEDERAALKA.
+
+Sida waafaqsan qodobbada 133 iyo 134aad, Baarlamaanka fedaraalka Soomaaliya waxa uu soo jeedinayaa dhaqan-gelinayaana wax ka beddel ku aaddan Dastuurka ku meel-gaarka, hab waafaqsan heshiiskii ay ka wada-xaajoodeen Dowlladda Fedderaalka ah iyo Dawladaha Xubnaha ka ah Federaalka ee jira iyo kuwa cusub, oo, balse aanan ku koobnayn , qodobbadan soo socda:-
+
+1.  Ku aaddan qodobka 22aad, oo qeexaya qaababka ka wada qayb-galka siyaasadda.
+2.  Ku aaddan qodobka 32aad, oo khusaysa xaq u lahaanshaha war-helidda.
+3.  Ku aaddan qodobka 39aad, oo dejinaya hanaanka xal-u-helidda xad-gudubyada xuquuqda Aadanaha.
+4.  Ku aaddan qodobka 41aad, asaasidda Guddiga Xuquuqda Aadanaha.
+5.  Ku aaddan qodobka 43aad, oo khuseeya waxa uu noqonayo dhulka Federaalka.
+6.  Ku aaddan qodobka 47aad oo ku saabsan xisbiyada siyaasadda iyo qaababka doorashooyinka.
+7.  Ku aaddan qodobbada 110aad iyo 113aad, oo dejinaya waajibaadka, xilalka, tirada iyo hanaanka Guddiyada Madaxa-bannaan.
+8.  Ku aaddan qodobka 111 J)aa oo ku saabsan xafiiska adeegaha gardoonka dadwaynaha (ombudsman)
+9.  Ku aaddan qodobka 130, xaaraantimeynta maleeshiyaadka khaaska ah.
+10. Ku aaddan qodobka 130, sharciyeynta shirkadaha ilaaladda khaaska ah.
+11. Xeer waafaqsan qodobka 131, oo ku saabsan Xaaladda Deg degga ah.
+
+## JADWALKA 1(D): SHURUUCDA MUDNAANTA KOOWAAD LEH IN LA SAMEEYO XILLIGA KOOWAAD EE BAARLAMAANKA FEDDERAALKA AH
+
+Guddiga qoraya waxa uu tixgelin gaar ah siinayaa qoritaanka mashaariic khuseeya shuruuc cusub, hab
+waafaqsanna heshiiskii ay ka wada xaajoodeen Dawladaha xubnaha ka ah Federaalka ah iyo maamuladda
+horay u jiray iyo kuwa cusub, oo ay ku jiraan, balse aanan ku koobnayn kuwan soo socda:
+
+1.  Xeer waafaqsan qodobka 8aad, oo dejinaya sida qofku uu u heli karo una waayi karo dhalashada Jamhuuriyadda Federaalka ee Soomaaliya.
+
+2.  Xeer waafaqsan qodobka 9aad, oo dejinaya maqaamka magaala-madaxda.
+
+3.  Xeer waafaqsan qodobka 30aad, oo ku saabsan samaynta dugsiyada khaaska ah, mac-hadyada iyo jaamacadaha.
+
+4.  Xeer waafaqsan qodobka 34aad, oo khuseeya xaqa ay eedeysanayaasha u leeyihiin in ay helaan caawinaad sharci oo lacag la’aan ah marka lagu soo oogo fal-dembiyeed.
+
+5.  Xeer waafaqsan qodobka 36aad, oo khuseeya dib u celinta eedeysanayaasha iyo dembiileyaasha.
+
+6.  Xeer waafaqsan qodobka 37, oo ku saabsan qaxootiga iyo magangelyo-doonka.
+
+7.  Xeer waafaqsan qodobka 39aad, oo dejinaya qaab-dhaqanka xal u helidda ku xad-gudubka xuquuqda Aadanaha.
+
+8. Xeer waafaqsan qodobka 45, oo khuseeya qubitaanka qashinka.
+
+9.  Xeer waafaqsan qodobbada 49 oo khuseeyo tirada iyo xudduudaha Dawlad goboleedyada iyo xallinta khilaafaadka xudduudaha.
+
+10. Xeer waafaqsan qodobka 51 aad, oo dejinaya shuruucda khuseeya xiriirka wada-shaqaynta heerarka kala duwan ee Dawladda.
+
+11. Xeer waafaqsan qodobka 68aad, oo dejinaya shuruucda hab-dhaqanka Golaha Shacabka.
+
+12. Xeer waafaqsan qodobka 70aad, oo qeexaya xasaannadda Xubnaha Baarlamaanka Soomaaliyeed ee Federaalka ah.
+
+13. Xeer waafaqsan qodobka 75, dejinaya shuruuc qaab-dhaqan oo ku aaddan Aqalka Sare ee Baarlamaanka Federaalka Dawladda goboleedyada.
+
+14. Xeer waafaqsan qodobka123, asaasidda Banki Dhexe ee Jamhuuriyadda Fedderaalka ah.
+
+15. Xeer waafaqsan qodobka 130, oo khuseeya ciidamada amniga.
+
+16. Xeer waafaqsan qodobka 130 asaasidda laamaha khaaska ku ah la dagaallanka argagixisada, bucadbadeedda, tahriibinta dadka iyo dembiyada kale ee abaabulan.
+
+17. Xeer waafaqsan qodobka 130 nidaaminta dhismaha iyo shaqooyinka booliska Federaaliga ah.
+
+18. Xeer waafaqsan qodobka 130 nidaaminta xiriirrada ka dhexxeeya adeegyada booliska Federaalka iyo kuwa Dawlad goboleedyada.
+
+19. Xeer waafaqsan qodobka 130 oo qeexaya arrinta u hogaansamidda amarrada sharci-darrada ah.
+
+20. Xeer waafaqsan qodobka 130 oo khuseeya asaasidda iyo shaqaynta guddiga Baarlamaanka ee khaaska ku ah arrimaha ciidamada qalabka sida.
+
+21. Xeer waafaqsan qodobka 130 oo khuseeya doorka dadweynaha ee dabagal ku samaynta adeegyada booliska Federaalka.
+
+22. Xeer waafaqsan qodobka 141, oo khuseeya u codeynta arrin khaas ah ee dadweynaha.
+
+
+<br>
+
+
+![calanka Soomaaliya](/calanka.png)
+

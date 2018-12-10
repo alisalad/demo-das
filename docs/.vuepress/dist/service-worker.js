@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c8a8d49bf2fc1239edc1c8a9f7d254f2"
+    "revision": "519790ec17125d964595ee913589299d"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "revision": "10ea4533793f9ffec2b75157e6f7f778"
   },
   {
-    "url": "assets/js/4.f3bce19b.js",
-    "revision": "47825be979d687df848e8dab58ec3c8a"
+    "url": "assets/js/4.10ef527c.js",
+    "revision": "f3f31b7cef9fb6b1580cea6c5eef7ed6"
   },
   {
     "url": "assets/js/5.f216c462.js",
@@ -60,8 +60,12 @@ self.__precacheManifest = [
     "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
   },
   {
-    "url": "assets/js/app.c01b190c.js",
-    "revision": "342ca17d4a38938774d3e7b455f4fda4"
+    "url": "assets/js/app.fc3b6a82.js",
+    "revision": "e1a6cefa4220637a2cac7ed3775b3644"
+  },
+  {
+    "url": "calanka.png",
+    "revision": "294b5e5df222b7f541a92f335b80355b"
   },
   {
     "url": "dastuurka.png",
@@ -69,27 +73,23 @@ self.__precacheManifest = [
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "8f1b80d339986aa65b7ce2a1d7c75f77"
+    "revision": "7d8fc4c0a83971f0c0e56330efdef007"
   },
   {
     "url": "guide/index.html",
-    "revision": "010d174663c4d6d0f81e230bfba2b024"
+    "revision": "fbf0beb3992815db31f89603e7167a30"
   },
   {
     "url": "guidebook.jpg",
     "revision": "544d37beeefe0244c6d8a05b8849b3db"
   },
   {
-    "url": "hero3.png",
-    "revision": "294b5e5df222b7f541a92f335b80355b"
-  },
-  {
     "url": "index.html",
-    "revision": "3cccc9d2ba3eeca4b70d37b09d39f5d0"
+    "revision": "a3fe70f843a92bbdef7e9902d32a9636"
   },
   {
     "url": "lang/index.html",
-    "revision": "d6f24931a3890e8de38a478ae6e0b1f7"
+    "revision": "9afb5556d04f4e79e30acef2431fe3aa"
   },
   {
     "url": "provisional_constitution.png",
@@ -101,7 +101,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "10136e89828959e2555ea25269b69477"
+    "revision": "ca65640bb1f57a7755210468c778dd57"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
