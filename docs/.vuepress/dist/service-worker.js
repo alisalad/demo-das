@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "8844b5cff2ec64ca051f75f63c719a11"
+    "revision": "c8a8d49bf2fc1239edc1c8a9f7d254f2"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "revision": "10ea4533793f9ffec2b75157e6f7f778"
   },
   {
-    "url": "assets/js/4.8f67abff.js",
-    "revision": "ed75700b4bfbba2a13b4f582e9592459"
+    "url": "assets/js/4.f3bce19b.js",
+    "revision": "47825be979d687df848e8dab58ec3c8a"
   },
   {
     "url": "assets/js/5.f216c462.js",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
   },
   {
-    "url": "assets/js/app.aa730e49.js",
-    "revision": "1aabdc10c5a2b1a1058ec25045d7ee40"
+    "url": "assets/js/app.c01b190c.js",
+    "revision": "342ca17d4a38938774d3e7b455f4fda4"
   },
   {
     "url": "dastuurka.png",
@@ -69,11 +69,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "3fbe3c33c87547b9aaab8dd6b457edd2"
+    "revision": "8f1b80d339986aa65b7ce2a1d7c75f77"
   },
   {
     "url": "guide/index.html",
-    "revision": "b9411166ddc03af20626c5833f9c4e78"
+    "revision": "010d174663c4d6d0f81e230bfba2b024"
   },
   {
     "url": "guidebook.jpg",
@@ -85,11 +85,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "efe414866c1d4c69a50de4c692b11afb"
+    "revision": "3cccc9d2ba3eeca4b70d37b09d39f5d0"
   },
   {
     "url": "lang/index.html",
-    "revision": "04db80c294cb1fbf20586416977ffc8e"
+    "revision": "d6f24931a3890e8de38a478ae6e0b1f7"
   },
   {
     "url": "provisional_constitution.png",
@@ -101,7 +101,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "2e04254a4f149421af10419a1ee656c7"
+    "revision": "10136e89828959e2555ea25269b69477"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
