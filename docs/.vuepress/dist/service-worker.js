@@ -21,47 +21,51 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7d5e9daad6980b801a61cdcaaf719ee1"
+    "revision": "c96912a0bfc5d1a576db96ffa2df89a8"
   },
   {
-    "url": "assets/css/0.styles.a5e41e54.css",
-    "revision": "ebd013e8259596d82a47ec5161061232"
+    "url": "assets/css/0.styles.22842a01.css",
+    "revision": "873c4ca53ed98476d39d0245832b2398"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.a4cf675e.js",
-    "revision": "1c6b048b81dfea0ce9854bdbb68e1bc2"
+    "url": "assets/js/3.5e2a12e5.js",
+    "revision": "add33f4466533e696fb56823bf5e2d5c"
   },
   {
-    "url": "assets/js/3.28251925.js",
-    "revision": "356e437cf051586a5966a45d7d699b68"
+    "url": "assets/js/4.5e621b61.js",
+    "revision": "0507a9788806fdb7aa2aea21d1127e69"
   },
   {
-    "url": "assets/js/4.10ef527c.js",
-    "revision": "f3f31b7cef9fb6b1580cea6c5eef7ed6"
+    "url": "assets/js/5.191e33d1.js",
+    "revision": "93860c88cb18482870f51040abd1e0d5"
   },
   {
-    "url": "assets/js/5.f216c462.js",
-    "revision": "2e0617032f488f346b4273c14de919c6"
+    "url": "assets/js/6.8dd5bb4e.js",
+    "revision": "7be559eed6c9208ab39c08ce8aed3d17"
   },
   {
-    "url": "assets/js/6.3dc1da16.js",
-    "revision": "7dee2bf707cdf8de3a990827b0e9a69b"
+    "url": "assets/js/7.0d3ecb56.js",
+    "revision": "97857892de2bf7f8d6f592d1d0cf83b5"
   },
   {
-    "url": "assets/js/7.5db693cb.js",
-    "revision": "4cef91a08757b8bc00c956114c696ecb"
+    "url": "assets/js/8.ca3e1de9.js",
+    "revision": "8d61bfa4b4bf14efcb6dae715daad31d"
   },
   {
-    "url": "assets/js/8.28b627c0.js",
-    "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
+    "url": "assets/js/9.6b4370e0.js",
+    "revision": "fa4634529913950bd3e6786170bc0c8a"
   },
   {
-    "url": "assets/js/app.7e87f51d.js",
-    "revision": "680133469b4171bac6ec3af1bb08b80c"
+    "url": "assets/js/app.63325e83.js",
+    "revision": "d6235e80c06f9c635d9cc13cb807117b"
+  },
+  {
+    "url": "assets/js/vendors~docsearch.0f761e11.js",
+    "revision": "f638395b1f6178592dbfb81cd4dd5717"
   },
   {
     "url": "calanka.png",
@@ -73,11 +77,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "2d610e49dea7824af0a5b8db120d1e83"
+    "revision": "e3f92aabddff9c2b391051f8121656de"
   },
   {
     "url": "guide/index.html",
-    "revision": "7ef0917150ad84ef9017ad583f7e67ef"
+    "revision": "a95b1a0921026d20b21d3e15d27a34a3"
   },
   {
     "url": "guidebook.jpg",
@@ -85,11 +89,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "cc8d824200063a14d88e514cb1b6caa5"
+    "revision": "e007e5d54ea3e9384dcf2564e7ed6512"
   },
   {
     "url": "lang/index.html",
-    "revision": "1009a1d417913847772183199893dd9e"
+    "revision": "6ecfe5bffaff2cc0d80311d7fd21e8e9"
   },
   {
     "url": "provisional_constitution.png",
@@ -101,7 +105,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "d827c55fba5fb7938b6dabdc11fb8d5c"
+    "revision": "4597856497cf233dd3b3bd36295e1fed"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
