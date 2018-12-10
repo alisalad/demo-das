@@ -12,7 +12,18 @@ module.exports = {
   serviceWorker: true,
 
   head: [
-    ['link', { rel: 'icon', href: '/somalia.png' }]],
+    ['link', { rel: 'icon', href: '/somalia.png' }],
+
+    [
+      'meta',
+      {
+        name: 'google-site-verification',
+        content: ''
+      }
+    ]
+  ],
+  ga: 'UA-130701702-1',
+  description: 'Dastuurka Soomaaliya.',
 
 
   themeConfig: {
@@ -25,6 +36,7 @@ module.exports = {
          hitsPerPage: 10,
        }
       },*/
+    lastUpdated: 'Last Updated',
 
     nav: [
       { text: 'Home', link: '/' },

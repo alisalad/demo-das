@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "53a1418eddc4cdaf82749f706d25d6c3"
+    "revision": "7d5e9daad6980b801a61cdcaaf719ee1"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "revision": "2e0617032f488f346b4273c14de919c6"
   },
   {
-    "url": "assets/js/6.4f893164.js",
-    "revision": "de9aaa37378faa5450a17d073f414022"
+    "url": "assets/js/6.3dc1da16.js",
+    "revision": "7dee2bf707cdf8de3a990827b0e9a69b"
   },
   {
     "url": "assets/js/7.5db693cb.js",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "revision": "55d7d2e82a5f9dca8ebfced5317bae02"
   },
   {
-    "url": "assets/js/app.e23c3328.js",
-    "revision": "7e07d994de99de9e73101ca3718433fc"
+    "url": "assets/js/app.7e87f51d.js",
+    "revision": "680133469b4171bac6ec3af1bb08b80c"
   },
   {
     "url": "calanka.png",
@@ -73,11 +73,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "7be003c26b7c8fd0e2bfb5ae61748dc5"
+    "revision": "2d610e49dea7824af0a5b8db120d1e83"
   },
   {
     "url": "guide/index.html",
-    "revision": "bbcb9224cb4f2605750dff33441456a1"
+    "revision": "7ef0917150ad84ef9017ad583f7e67ef"
   },
   {
     "url": "guidebook.jpg",
@@ -85,11 +85,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ff628077df5beeb0d6f2ea38342cb9ca"
+    "revision": "cc8d824200063a14d88e514cb1b6caa5"
   },
   {
     "url": "lang/index.html",
-    "revision": "72f863abca78db601e006fddf925fc10"
+    "revision": "1009a1d417913847772183199893dd9e"
   },
   {
     "url": "provisional_constitution.png",
@@ -101,7 +101,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "515dea995720c13525b9ce2ed5531854"
+    "revision": "d827c55fba5fb7938b6dabdc11fb8d5c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
