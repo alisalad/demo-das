@@ -1141,8 +1141,7 @@ of members of the House of the People of the Federal Parliament stated in this C
 
 2.  The Upper House of the Federal Parliament cannot be dissolved. 
 
-## Title Four: 
-**Legislative Procedures In Parliament**
+## Title Four: Legislative Procedures In Parliament
 
 ## Article 79. 
 **Draft Legislation**
