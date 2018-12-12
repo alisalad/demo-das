@@ -777,7 +777,8 @@ banneeyo, wuxuu noqonayaa xildhibaan Golaha Shacaba inta uu nool yahay haddii aa
 lagu samayn iyadoo aanay muddadii xil-hayntiisu dhammaan si waafaqsan qodobka 92aad ee
 Dastuurkan, tirada xildhibaanadana dheeraad ayuu ka yahay.
 
-## Qodobka 65aad. **Guddoomiyaha iyo Ku-xigeennada Golaha Shacabka ee Baarlamaanka Federaalka**
+## Qodobka 65aad. 
+**Guddoomiyaha iyo Ku-xigeennada Golaha Shacabka ee Baarlamaanka Federaalka**
 
 1. Golaha Shacabka, fadhigiisa koowaad oo uu guddoominayo qofka ugu da’da weyn, waa inuu iska
 dhex doorto Guddoomiye iyo laba (2) Ku-Xigeen.
@@ -1091,30 +1092,49 @@ Waxaa loo dooran karaa xilka Madaxweynaha Jamhuuriyadda Federaalka Muwaaddin kas
 
 5.  Murashax Madaxweyne oo kasta waa in uu murashaxnimadiisa gaarsiiyaa Baarlamaanka Federaalka waana in uu barnamijkiisa doorashada u soo bandhigaa Baarlamaanka Federaalka, oo markaa ka dib dooranaya isaga oo la raacaya geeddi-socodkan:
   - (a) Codeynta doorashada Madaxweynaha Jamhuuriyadda Federaalka waa qarsoodi;
+  
   - (b) Labada Gole ee Barlaamanka Federaalka waxay Madaxweyne u dooranayaan murashaxa ku guleeysta aqlabiyad seddax meelood laba, tirada guud ee xubnaha Labada Gole ee Baarlamaanka Federaalka ah;
+  
   - (c) Haddii murashax ku guuleeysan waayo waxaa codayn labaad loo qaadayaa afarta murashax ee ugu cod badan waxaana ku guleeysanayaa Madaxweyninimada Jamhuuriyadda Federaalka murashaxa hela aqlabiyad ah seddax meelood laba codadka tirada guud ee xubnaha labada aqal ee Baarlamaanka Federaalka ah;
+  
   - (d) Haddii murashaxna ku guleeysan waayo codbixinta wareegga laabad waxaa codbixin wareeg seddaxaad loo qaadayaa labada murashax ee ugu cod badan waxaana Madaxweynennimada Jamhuuriyadda Federaalka Soomaaliya ku guuleysanaaya murashaxa hela tirada ugu badan ee codadka guud ee xubnaha labada aqal ee Baarlamaanka.
 
 ## Qodobka 90aad. 
 **Xilka iyo Awoodaha Madaxweynaha Jamhuuriyadda Federaalka ee Soomaaliya**
 
 Awoodaha iyo xilka Madaxweynaha waxaa ka mid ah:
+  
   - (a) Wuxuu ku dhawaaqaa Xaaladda Deg degga ah iyo Xaaladda dagaal, si wafaaqsan sharciga.
+ 
   - (b) waa Taliyaha Guud ee Ciidammada Qalabka Sida.
+ 
   - (c) Wuxuu magacaabaa Taliyeyaasha Ciidammada Heer Federaal iyo ka qaadista xilalkooda, markii ay soo jeediyaan Golaha Wasiirradu,.
+ 
   - (d) Wuxuu magacaabayaa xilka Wasiirka Koowaad wuxuuna xilka ka qaadayaa ama kala dirayaa Xukuumadda Federaalka haddii ay waydo codka kalsoonida Golaha Shacabka ee Baarlamaanka Federaalka, oo ah cod hal-dheeri ah (50%+1).
+  
   - (e) Wuxuu xilka ka qaadayaa Wasiirrada, Wasiiru-dawleyaasha, iyo Wasiir-ku-xigeennada, markuu soo jeediyo Wasiirka Koowaad.
+ 
   - (f) Wuxuu saxiixaa sharciyada uu soo ansixiyo Baarlamaanka Federaalku, si sharci looga dhigo.
+  
   - (g) Wuxuu furaa Golaha Shacabka.
+  
   - (h) Wuxuu la hadlaa fadhiga gaarka ah ee Golaha Shacabka sanadkiiba mar.
       - (i) Wuxuu la hadli karaa Golaha Shacabka mar kasta oo kale.
   - (j) Wuxuu magacaabaa Guddoomiyaha Maxkamadda Dastuuriga, Maxkamadda Sare iyo Garsooreyaasha kale Heer-Federaal, soo-jeedinta Guddiga Adeegga Garsoorka ka dib.
+ 
   - (k) Wuxuu magacaabayaa jagooyinka sare ee Xukuumadda Federaalka iyo madaxda Hey’adaha Dawladda Federaalka,marka uu soo jeediyo Golaha Wasiirradu.
+ 
   - (l) Wuxuu magacaabaya jagooyinka danjireyaasha iyo qunsuliyadaha guud, markuu Golaha Wasiirradu soo jeediyo.
+ 
   - (m) Wuxuu qaabbilaa diblomaasiyiinta shisheeye iyo wakiillada qunsuliyadaha dalalka shisheeye.
+ 
   - (n) Wuxuu guddoonsiiyaa abaalmarinta Xushmada Qaranka markuu Golaha Wasiirradu soo jeediyo.
-  - (o) Madaxweynuhu wuxuu kala diri karaa Golaha Shacabka marka ay muddadiisa xilku dhammaato, si doorasho ay u aadaan.
+ 
+  - (o) Madaxweynuhu wuxuu kala diri karaa Golaha Shacabka marka ay muddadiisa xilku dhammaato, si doorasho ay 
+  u aadaan.
+ 
   - (p) In uu cafis u fidiyo ama ciqaab ka dhimo dembiilayaal marka uu ka talo-qaato Guddiga Adeegga Garsoorka.
+ 
   - (q) In uu saxiixo heshiisyada caalamiga ah kadib markii Golaha Wasiirrada soo jeediyo, Golaha Shacabkuna ansixiyo.
 
 ## Qodobka 91aad. 

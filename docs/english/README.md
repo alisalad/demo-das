@@ -97,7 +97,7 @@ of Somalia shall enact a special law that shall define how to obtain, suspend, o
 The status of the capital city of Somalia shall be determined in the constitutional review process, and
 the two houses of the Somali Federal Parliament shall enact a special law with regards to this issue.
 
-## Chapter 2: Fundamental Rights and the Duties of the Citizen Title One: General Principles Of Human Rights
+## Chapter 2: Fundamental Rights and the Duties of the Citizen: <br> Title One: General Principles Of Human Rights
 ## Article 10. 
 **Human Dignity**
 1.  Human dignity is given by God to every human being, and this is the basis for all human rights.
@@ -131,7 +131,8 @@ but also to take reasonable steps to protect the rights of the people from abuse
 3.  The rights recognized in this Chapter may be limited only by a law as provided for in Article 38.
 
 ## Title Two: Rights, Basic Personal Liberties and Limitations
-**Article 13. Right to Life**
+## Article 13. 
+**Right to Life**
 
 Everyone has the right to life.
 
@@ -1623,3 +1624,863 @@ of the Federal Parliament to seek their endorsement;
 
   - (d) Carry out any other function conferred upon him or her by the Constitution or by any other
 law that complies with the Constitution and its underlying values.
+
+## Article 101. 
+**Deputy Prime Minister**
+
+The Deputy Prime Minister acts for the Prime Minister when the Prime Minister is out of the country,
+and carries out other responsibilities as may be delegated by the Prime Minister.
+
+## Article 102. 
+**Functions of the Minister, Deputy-Minister, and State Minister**
+
+1.  Every Minister is personally responsible for the functions of his Ministry.
+
+2.  Every Deputy-Minister shall carry out functions delegated to him by his Minister.
+
+3.  State ministers shall carry out specific functions assigned to them by the Prime Minister.
+
+## Article 103. 
+**Caretaker Government**
+
+Between the date of a general election and the swearing in of the new Prime Minister, the existing
+Prime Minister and Council of Ministers shall continue to serve in a caretaker capacity to carry out
+routine duties.
+
+## Article 104. 
+**Oath**
+After obtaining a vote of confidence, the Prime Minister and the Council of Ministers shall, before
+assuming their duties, take the Oath in a special session of the House of the People of the Federal
+Parliament, administered by the Chairman of the High Court, and which shall read as follows:
+
+> “I swear in the name of Allah that I will perform my duties honestly and in the best interest of
+the Nation, People and Religion, and that I will abide by the Constitution and the other Laws of
+the Country”
+
+## CHAPTER 9: THE JUDICIAL AUTHORITY
+
+## Article 105. 
+**The Judicial Authority of the Federal Republic of Somalia**
+
+1.  Judicial authority is vested in the courts.
+
+2.  The judicial structure shall be regulated in a law enacted by the Federal Parliament. 
+
+## Article 106. 
+**Judicial Independence**
+
+1.  The judiciary is independent of the legislative and executive branches of government whilst
+fulfilling its judicial functions. Members of the judiciary shall be subject only to the law.
+
+2.   No civil or criminal proceedings shall be instituted against a judge in respect of the exercising of
+any judicial function.
+
+3.  The home or person of a judge cannot be searched without the authorization of the Judicial Service
+Commission.
+
+## Article 107. 
+**Judicial Procedure**
+
+1.  Judicial proceedings shall be open to the public, but the courts may decide, in the interests of ethics,
+national security, the protection of witnesses, in cases involving juveniles, or concerning rape, that
+the proceedings be held in private.
+
+2.  No judicial decision shall be made unless all parties have had the opportunity to present their case.
+
+3.  Reasons shall be given for all judicial decisions.
+
+## Article 108. 
+**National Court Structure**
+
+The national court structure shall be of three levels, which are:
+
+  - (a) The Constitutional Court;
+
+  - (b) The Federal Government level courts;
+
+  - (c) The Federal Member State level courts. The highest court at the Federal Government level shall be the Federal High Court, whilst the highest court at the Federal Member State level
+shall be the Federal Member State High Court.
+
+## Article 109. 
+**The Proceedings of the National Courts**
+
+1.  If a case is presented before a court, and the case concerns the Federal Government, the court shall
+refer the case to the Federal Government level court.
+
+2.  If a case is presented before a court and the case concerns a constitutional matter, the court may
+refer the case to the Constitutional Court.
+
+  - (a) Any court with judicial powers can decide on whether a matter brought before it is
+a constitutional matter or not, if this will not contradict the exclusive powers of the
+Constitutional Court, as stipulated in Article 109C of the Constitution;
+
+  - (b) The Constitutional Court is the final authority in constitutional matters;
+
+  - (c) The Constitutional Court shall have sole jurisdiction on matters of interpretation of the
+Constitution which have not arisen out of court litigation;
+
+  - (d) Any Individual, or groups, or the government may submit directly to the Constitutional Court
+a reference application on matters concerning the public interest.
+
+3.  Notwithstanding Clauses 1 and 2 of this Article, the Federal Parliament shall enact a law providing
+detailed laws for the interaction between the Federal Government level courts and the Federal
+Member States courts. 
+
+## Article 109A. 
+**The Judicial Service Commission**
+
+1.  This Constitution establishes a Judicial Service Commission.
+
+2.  The Judicial Service Commission shall be comprised of nine (9) members, which shall be as follows:
+
+  - (a) The Chief Judge of the Constitutional Court;
+
+  - (b) The Chief Judge of the High Court;
+
+  - (c) The Attorney General;
+
+  - (d) Two (2) people who are members of the Somali Bar, appointed by the Somali Law Society for
+a four (4) year term;
+
+  - (e) The Chair of the Human Rights Commission;
+
+  - (f) Three (3) people of high reputation within Somali society, proposed by the Council of
+Ministers, and then appointed by the President for a term of four (4) years, and renewable
+only once.
+
+3.  The Judicial Service Commission shall elect a chair from amongst its members.
+
+4.  The term of office for the members of the Judicial Service Commission is five (5) years, renewable
+only once.
+
+5.  A disciplinary regulation passed by the Judicial Service Commission shall apply to all the members
+of the Judicial Service Commission.
+
+6.  In accordance with law and regulation, the Judicial Service Commission shall do the following:
+
+  - (a) Appoint, discipline and transfer any member of the judiciary at the Federal level;
+
+  - (b) To decide on remuneration and pensions of members of the judiciary;
+
+  - (c) To decide on other work matters of the judiciary.
+
+## Article 109B. 
+**The Formation of the Constitutional Court**
+
+1.  This Constitution establishes the Constitutional Court which is composed of five (5) Judges
+including the Chief Judge and the Deputy Chief Judge.
+
+2.  The Judicial Service Commission shall nominate as judge of the Constitutional Court only persons
+of high integrity, with appropriate qualifications in law and Shari’a, and who is highly competent in
+Constitutional matters.
+
+3.  The Judicial Service Commission shall propose to the House of the People the person they want to
+be appointed as a Constitutional judge.
+
+4.  If the House of the People of the Federal Parliament approves the name proposed in accordance
+with Clause 3 of this Article, the President of the Federal Republic shall appoint that Person as a
+judge of the Constitutional Court.
+
+5.  From amongst their members, the Constitutional Court judges shall appoint the Chief Judge and
+Deputy Chief Judge.
+
+## Article 109C. 
+**The Powers of the Constitutional Court**
+
+1.  The Constitutional Court shall have the following exclusive powers:
+
+  - (a) Upon request from a member of the Council of Ministers, a committee from either one
+of the Houses, or ten members of either House of the Federal Parliament, to review draft
+legislation, and determine its compatibility with the Constitution;
+
+  - (b) To hear and decide cases as stipulated in Article 86 concerning challenges to the
+constitutionality of a law passed by the Federal Parliament;
+
+  - (c) To hear and decide on cases that have been submitted to the Constitutional court resulting
+from matters stated in Article 109 (2) (c), concerning matters of interpretation of the
+Constitution not arising out of Court litigation;
+
+  - (d) To resolve any disputes between the Federal Government and the Federal Member State
+governments, or among the Federal Member State governments;
+
+  - (e) To hear and decide cases arising out of disputes between organs of the Federal Government,
+concerning their respective constitutional powers and duties;
+
+  - (f) To hear and decide cases arising in terms of Article 92 concerning the impeachment trials of
+the President.
+
+2.  The Constitutional Court shall determine the date from which the decision to void legislation shall
+come into effect.
+
+3.  In the case of legislation held to be unconstitutional, except in terms of Paragraph (b) of this
+Clause, taking into account the effect of the decision on the date of invalidation on the stakeholders
+and other social interests, the constitutional court may declare the legislation invalid from the time
+of enactment, or from the time of the judgment, or, to enable appropriate action pending invalidity,
+from a date specified in the future.
+
+4.  In the case of criminal legislation, if the effect of declaring the law invalid from the enactment date
+would be of benefit to a person who has been convicted through this unconstitutional legislation,
+the invalidity must be from the time of enactment.
+
+## CHAPTER 10: THE INDEPENDENT COMMISSIONS
+## Article 110. 
+**General Principles**
+
+1.  An Independent Commission is a body that is independent of government or political control, and
+able to make use of expertise relevant to the particular areas of its work.
+
+
+2.  In its mandate and operations, an Independent Commission shall embody and reflect the spirit of
+human rights, democracy and transparency.
+
+3.  An Independent Commission must not be subject to the direction or control of any person or
+institution.
+
+4.  The funding for each Independent Commission shall be allocated by a separate vote in the national
+budget.
+
+## Article 111. 
+**The Formation of Independent Commissions**
+
+1.  The country shall have Independent Commissions both at the Federal Government level as well as
+at the level of the Federal Member States, and their obligations, duties and numbers shall be defined
+in a law passed by both Houses of the Federal Parliament.
+
+2.  While putting into consideration the specific tasking that those commissions are entrusted with, the
+Federal Member States of Somalia must be consulted when appointing the commissioners.
+
+## Article 111A. 
+**The Judicial Service Commission**
+
+1.  There shall be a Judicial Service Commission, which shall advise the Federal Government on the
+administration of justice including recruitment, dismissal, and any legal action taken against judges.
+
+2.  The Judicial Service Commission has to be independent, neutral, non-partisan and shall ensure the
+independence of the judiciary.
+
+3.  The Judicial Service Commission shall have powers, and responsibilities as stipulated in the
+Constitution and the national laws.
+
+## Article 111B. 
+**The Human Rights Commission**
+
+1.  There shall be a Human Rights Commission that shall be mandated to:
+
+  - (a) Promote respect of human rights, and the culture of human rights;
+
+  - (b) Promote the protection, development, and attainment of human rights; and
+
+  - (c) Monitor and assess the observance of the conduct of human rights in the Federal Republic
+of Somalia.
+
+2.  In accordance with the Constitution, the Human Rights Commission shall have powers to perform
+the following functions:
+
+  - (a) To investigate and report on the observance of human rights;
+
+  - (b) To take steps to secure appropriate redress where human rights have been violated;
+
+  - (c) To carry out research;
+
+  - (d) To educate the public and state officials on international standards relating to human rights.
+
+3.  The powers and the activities of the Human Rights Commission shall be stipulated in the Human
+Rights Commission Act.
+
+4.  The Human Rights Commission shall be independent, impartial, and inclusive and should not have
+more than nine members.
+
+## Article 111C. 
+**The Anti-Corruption Commission**
+
+1.  There shall be an Anti-Corruption Commission and its mandate is to investigate allegations of
+corruption that implicate the public sector.
+
+2.  The Anti-Corruption Commission may conduct enquiries at its own discretion and is not required
+to only act upon a complaint.
+
+3.  The mandate of the Anti-Corruption Commission includes:
+
+  - (a) To promote and strengthen measures to prevent and combat corruption more efficiently and effectively;
+
+  - (b) The advancement, facilitation and support of international co-operation related to anticorruption policies;
+
+  - (c) To promote integrity, accountability, and proper management of public matters and property.
+
+4.  The powers of the Anti-Corruption Commission include:
+
+  - (a) To prevent, investigate and publish corruption allegations;
+
+  - (b) To freeze, seize, confiscate or return any gains from criminal activity;
+
+  - (c) To support the adoption of such laws and other measures necessary to effectively prevent
+and prosecute criminal offences relating to corruption.
+
+5.  The scope of the Anti-Corruption Commission includes issues relating to:
+
+  - (a) Corruption of national or foreign public officials and officials of public international
+organizations;
+
+  - (b) Embezzlement, misappropriation or other diversion by a public official of any public or private property;
+
+  - (c) Trading in influence;
+
+  - (d) Abuse of functions and illicit enrichment.
+
+6.  The Anticorruption Commission shall be independent, impartial, representative and inclusive and
+shall not have more than nine members.
+
+## Article 111D. 
+**Parliamentary Service Commission**
+
+1.  At the beginning of the term of the House of the People, both Houses of the Federal Parliament
+shall establish a Parliamentary Service Commission serving for the term of the House of the
+People.
+
+2.  The Parliamentary Service Commission shall consist of:
+
+  - (a) The Speaker of the House of the People as chairperson;
+
+  - (b) The Speaker of the Upper House as vice-chairperson;
+
+  - (c) Four (4) members elected by the House of the People from among its members, of whom at
+least two (2) shall be women;
+
+  - (d) Two (2) members elected by the Upper House from among its members, of whom at least
+one shall be a woman;
+
+  - (e) One member appointed by the House of the People from among persons who are
+experienced in public affairs, but are not members of the Federal Parliament.
+
+3.  A member of the Parliamentary Service Commission shall vacate office:
+
+  - (a) At the end of the term of the House of the People;
+
+  - (b) If the member is a member of the Federal Parliament and ceases to be a member of the
+Federal Parliament; or
+
+  - (c) If the member is an appointed member, on revocation of the person’s appointment by the
+House of the People.
+
+3.  The Parliamentary Service Commission shall be responsible for:
+
+  - (a) Providing services and facilities to ensure the efficient and effective functioning of the
+Federal Parliament;
+
+  - (b) Constituting offices to support the parliamentary service, and appointing and supervising
+office holders;
+
+  - (c) Preparing annual estimates of expenditure of the Federal Parliament and submitting them
+to the House of the People for approval, and exercising budgetary control over financial
+activities;
+
+  - (d) Performing any other function necessary for the well-being of the members and staff of the
+Federal Parliament as prescribed by federal law.
+
+5.  With the approval of the relevant House, the Parliamentary Service Commission shall appoint a
+Clerk for each House of the Federal Parliament. The offices of the Clerks and offices of members
+of the staff of the Clerks shall be offices in the Parliamentary Service.
+
+## Article 111E. 
+**Boundaries and Federation Commission**
+
+1.  There shall be a Boundaries and Federation Commission to support the territorial changes in
+Somalia in order that it may become a fully-fledged federation of states.
+
+2.  The Boundaries and Federation Commission may draw on national and international expertise,
+conduct studies, make and print maps and conduct inquires to support the creation of viable federal
+states.
+
+3.  The Boundaries and Federation Commission shall take into account demographic and cartographic
+information as well as political, economic and social criteria and recommend to the Federal
+Parliament the demarcation of boundaries of Federal Member States.
+
+4.  The commission shall be independent, impartial, inclusive and representative of all geographical
+parts of Somalia.
+
+5.  The final determination of the boundaries of Federal Member States shall be made by the
+Federal Parliament and shall be based on the recommendations of the Boundaries and Federation
+Commission.
+
+## Article 111F. 
+**Inter-state Commission** 
+
+1.  There shall be established by federal law an Inter-state Commission.
+
+2.  The Inter-State Commission shall have such powers as the Federal Parliament deems necessary to:
+
+  - (a) Facilitate intergovernmental coordination and cooperation among the Federal Government
+and the governments of the Federal Member States; and
+
+  - (b) Resolve any administrative, political or jurisdictional disputes between the Federal
+Government and one or more governments of the Federal Member States or between the
+governments of Federal Member States.
+
+3.  The Interstate Commission shall be composed of members appointed by the Prime Minister and at
+least an equal number of members appointed by each government of the Federal Member States.
+
+## Article 111G. 
+**National Independent Electoral Commission**
+
+1.  There shall be established a National Independent Electoral Commission, established under
+the Constitution. The National Independent Electoral Commission shall be independent of the
+executive and shall manage its own budget. The National Independent Electoral Commission
+shall be inclusive and representative and be impartial and neutral and shall not have more than nine
+members.
+
+2.  The mandate of the National Independent Electoral Commission includes:
+
+  - (a) The conduct of presidential elections;
+
+  - (b) The conduct of Federal Parliament elections;
+
+  - (c) The continuous registration of voters and revision of the voter’s roll;
+
+  - (d) The registration of candidates for elections;
+
+  - (e) The delimitation of constituencies and wards;
+
+  - (f) The regulation of the political party system;
+
+  - (g) The settlement of electoral disputes;
+
+  - (h) The facilitation of the observation, monitoring and evaluation of elections;
+
+  - (i) The regulation of money spent by an elected candidate or party in respect of any election;
+
+  - (j) The development of an electoral code of conduct for its candidates and parties;
+
+  - (k) The monitoring of compliance with legislation on nomination of candidates by parties;
+  
+  - (l) Voter education.
+
+3.  The Federal Parliament shall establish the National Independent Electoral Commission and the
+relevant legislation required to support it as a matter of priority. 
+
+## Article 111H. 
+**National Security Commission**
+
+1.  A National Security Commission shall be established by federal law. The National Security
+Commission shall be independent and shall comprise of security experts from all sectors.
+
+2.  The mandate of the National Security Commission shall be to:
+
+- (a) Study and develop an integrated security framework to address the present and future needs
+of Somalia for review and adoption by the Federal Parliament;
+
+  - (b) Present proposals to ensure that human security is prioritized and incorporated into the
+national security framework;
+
+  - (c) Develop a framework through which the public may provide oversight and monitor security
+related expenditure;
+
+  - (d) Seek redress from abuses by security personnel.
+
+3.  The priority issues to be addressed by the National Security Commission shall include:
+
+  - (a) Piracy;
+
+  - (b) Demobilization of militias and reintegration into society which includes skills training and the
+provision of material support and psychological counseling;
+
+  - (c) Policing;
+  
+  - (d) Ensuring civilian control of the armed forces.
+
+4.  The National Security Commission shall establish a Civilian Oversight Sub-Committee comprising
+of security experts, members of the Federal Parliament, academics and civil society representatives
+from all sectors of Somali society. The mandate of the Civilian Oversight Sub-Committee shall be
+to:
+
+  - (a) Present proposals to ensure that human security is prioritized and incorporated into the
+national security framework;
+
+  - (b) Develop a framework through which the public may provide oversight;
+
+  - (c) Monitor security related expenditure;
+
+  - (d) Seek redress from abuses by security personnel.
+
+## Article 111I. 
+**Truth and Reconciliation Commission**
+
+1.  There shall be established the Truth and Reconciliation Commission to foster national healing,
+reconciliation and unity and to ensure that matters relating to impunity, revenge and other triggers
+of violence are addressed through a legal and state directed process.
+
+2.  The Truth and Reconciliation Commission shall be independent, impartial and representative and
+shall include: traditional elders and leaders, members of the Federal Parliament, respected members
+of civil society, judges and security personnel.
+
+3.  The mandate of the Truth and Reconciliation Commission shall include:
+
+  - (a) Bearing witness to, record, and in some cases, grant amnesty to the perpetrators of crimes
+relating to human rights violations, and rehabilitation of the criminals;
+
+  - (b) Promoting forgiveness, reconciliation and national unity.
+
+## Article 111J. 
+**The Office of the Ombudsman**
+
+1.  There shall be established the Office of the Ombudsman.
+
+2.  The Ombudsman must act in accordance with the Constitution and the Laws.
+
+  - (a) A member of the Council of Ministers, the Federal Parliament or any other person shall not
+interfere with the work of the office of the Ombudsman.
+
+  - (b) Each department of the Government shall co-operate with the office of the Ombudsman
+regarding the need to maintain its independence, integrity and effective service delivery.
+
+3.  While acting in accordance with the recommendations of the Judicial Service Commission, the
+President of the Federal Republic of Somalia shall nominate an Ombudsman.
+
+  - (a) The Judicial Service Commission can recommend the nomination of a person as an Ombudsman, only if such a person is qualified to be nominated as a judge of the Constitutional Court.
+
+  - (b) The Ombudsman’s term of office is seven (7) years.
+
+4.  In Clause 5, the word “officer” means any person who is elected or nominated or who works for
+a Federal Government, Federal Member State government or a local government institution or an
+officer who is part of a business owned, managed or is in the hands of the government, or an office
+member of the defense or police forces, but does not include a judge of the Constitutional Court, a
+High Court or any other officers involved until an allegation becomes evident of a judicial task.
+
+5.  The Ombudsman shall:
+
+  - (a) Investigate complaints regarding allegations or outright violations against basic rights and
+freedoms, abuse of power, unfair behavior, mercilessness, lack of clemency, indiscipline or
+disrespect towards a person that lives in Somalia by an officer who works at the various levels
+of government, an apparently unfair behavior, or act in a corrupt manner, or a behavior by an
+officer deemed as illegal by a democratic society or regarded as mischief or injustice.
+
+  - (b) Investigate complaints in relation to the activities of the Public Service Commission of the
+government, administrative institutions of the government, and the defense and police forces
+whoever such complaints relate to, failure to equally align those services or fair recruitment
+among all people in those services or to administer those services fairly.
+
+  - (c) To take appropriate steps which the public calls for, to rectify or change items mentioned in
+earlier clauses through a fair, and appropriate process, which include, but are not limited to:
+
+    - (i) Consultations and sacrifices among the people concerned;
+
+    - (ii) Reporting on the complaints and matters presented to the Ombudsman, and submit to the head of the offender;
+
+    - (iii) To forward the matter to the Attorney General;
+
+    - (iv) To bring the matter before a court that forbids improper conducts by an officer; or
+
+    - (v) Forward to the Attorney General a matter suspected to involve corruption.
+
+6.  The Attorney General shall submit a yearly report to the House of the People and the Upper House of the Federal Parliament and to the public in general.
+
+## Article 112. 
+**Appointment of Independent Commissions at the Federal Level**
+
+Unless the Constitution provides otherwise, the relevant Minister shall propose the names of
+commissioners to the Council of Ministers. If the Council of Ministers approves, the names shall be
+submitted to the concerned House of the Federal Parliament. If the concerned House of the Federal
+Parliament approves the names, they shall be sent to the President of the Federal Republic for formal
+appointment.
+
+## Article 113. 
+**Regulations of Independent Commissions**
+
+The regulations of the Independent Commissions shall be stated in a law passed made by the House of
+the People of the Federal Parliament.
+
+## Article 114. 
+**The Independent Offices**
+
+There shall be independent institutions which the Federal Government and the Federal Member States
+shall have; such as the Attorney General, the Auditor General and the Federal Central Bank. 
+
+## CHAPTER 11: CIVIL SERVICE
+## Article 115. 
+**Civil Service Values**
+
+The civil service at all levels of government is a pledge to serve the people and shall be based on the
+values of the Constitution, compassion, transparency, community service, respect for administrative
+hierarchy, obedience, confidentiality, work ethics, efficiency, effectiveness, professionalism protect
+principles of fairness, equality and best practices.
+
+## Article 116. 
+**Protection of the rights of civil servants**
+
+Civil servants may not be:
+
+ 
+ - (a) Victimized for doing work related to their responsibility;
+
+  - (b) Dismissed from their job, transferred from office or be demoted, unless there is legal and
+reasonable ground. 
+
+## Article 117. 
+**Appointment of High Ranking Officials**
+
+High ranking public employees and officials of the government as defined by the law, shall be
+appointed by the President of the Federal Republic of Somalia, after considering the proposal by the
+Council of Ministers. 
+
+## Article 118. 
+**Civil Servants and Public Employees**
+
+1.  Civil servants and public employees shall exercise their functions in accordance with the law and
+solely in the public interest.
+
+2.  Civil servants and public employees shall not be leaders of any political party.
+
+3.  The law shall determine the categories of state employees who may not be members of political
+parties, and the activities that are incompatible with their duties.
+
+4.  The legal status of the state employees shall be regulated by law.
+
+5.  Permanent jobs with the government may be earned only by an open competition, except in the
+circumstances described by law.
+
+## Article 119. 
+**Civil Service**
+
+1.  The Federal Government and the Federal Member States may recruit their employees.
+
+2.  There shall be a civil service both at the Federal level and at the level of the Federal Member States;
+
+3.  The Federal Government and the Federal Member States may cooperate in the deployment of staff,
+in order to ensure that expertise and experience are available where needed and in order to promote
+national unity.
+
+4.  The Civil Service of the Federal Government and Federal Member States shall be formed on the
+basis of proportional representation of the resident population.
+
+## CHAPTER 12: FEDERAL MEMBER STATES
+## Article 120. 
+**Institutions of the Federal Member States**
+
+The establishment of the legislative and executive bodies of government of the Federal Member States
+is a matter for the Constitutions of the Federal Member States.
+
+## Article 121. 
+**Principles for Constitutions**
+
+1.  Principally, the Constitution of the Federal Republic of Somalia and those of the Federal Member
+States shall be harmonized.
+
+## CHAPTER 13: PUBLIC FINANCE
+## Article 122. 
+**Principles of Public Finance**
+
+The Principles of public finance will be discussed between the Federal Government and Federal
+Member State in accordance with the Constitution.
+
+## Article 123. 
+**The Federal Central Bank**
+
+1.  A law passed by the Federal Parliament shall establish the Federal Central Bank of the Federal
+Republic of Somalia.
+
+2.  The Federal Central Bank of the Federal Republic of Somalia shall be responsible for formulating
+and implementing financial policies and monetary policies and all the banks shall abide by the
+regulations set by the Federal Central Bank.
+
+3.  The main functions of the Federal Central Bank of the Federal Republic of Somalia are to:
+
+  - (a) Produce currency;
+
+  - (b) Control inflation;
+
+  - (c) Stabilize exchange rates; and
+
+  - (d) Establish a sound banking system.
+
+4.  The financial policy shall be based on the market forces and lending shall not be based on
+administrative decisions.
+
+5.  The Federal Central Bank of the Federal Republic of Somalia has full authority to execute the
+monetary policy.
+
+6.  The Federal Central Bank is the National Reserve Bank.
+
+## Article 124. 
+**Federal Legislation on Financial Matters**
+
+A law enacted by the Federal Parliament shall provide the framework for financial management with the
+following characteristics among others:
+
+  - (a) The preparation, timetable and procedure for presenting the budgets of Federal Member
+States and districts in a transparent, accountable and efficient manner;
+
+  - (b) Guarantees by the Federal Government for loans raised by Federal Member States;
+
+  - (c) Procedures which the Government will follow for public procurements;
+
+  - (d) Auditing of accounts of non-governmental bodies that receive government funding; and
+
+  - (e) General measures necessary for the implementation of this Chapter. 
+
+## Article 125. 
+**The National Reserve**
+
+1.  A law enacted by the Federal Parliament shall establish a National Reserve. That law shall also
+determine legitimate revenue collection and expenditure disbursement relating to institutions at all
+levels within the Federal Republic of Somalia. That law shall be based on an accountability system
+that has been tested worldwide and is known to have standards related to financial reserve and
+expenditure that can equally be implemented in every part of the Federal Republic of Somalia.
+
+2.  The National Reserve shall ensure the implementation of the principle stated in Clause 1 and it
+shall stop disbursement of funds to any government department that commits major violations or
+constantly violates the law of National Reserve.
+
+## CHAPTER 14: PEACE AND SECURITY
+## Article 126. 
+**Ensuring Security of the Federal Republic of Somalia**
+
+1.  The Federal Government shall guarantee the peace, sovereignty and national security of the Federal
+Republic of Somalia and the safety of its people through its security services, including:
+
+  - (a) The armed forces;
+
+  - (b) The intelligence services;
+
+  - (c) The police force;
+
+  - (d) The prison forces.
+
+2.  The deployment of the security forces shall be determined by law.
+
+3.  The armed forces of the Federal Republic of Somalia have the mandate to guarantee the
+sovereignty and independence of the country and to defend its territorial integrity.
+
+4.  The federal police force has the mandate to protect the lives and property, the peace and security of
+the citizens and other residents of the Federal Republic of Somalia.
+
+5.  The police forces established by the laws of the Federal Member States have the mandate to protect
+lives and property and preserve peace and security locally, alone or in cooperation with the federal
+police force.
+
+6.  The armed national security agencies shall be controlled by civilian agencies.
+
+## Article 127. 
+**Principles for the Security Forces**
+
+1.  The security forces must respect the following principles:
+
+  - (a) Professionalism, discipline and patriotism;
+
+  - (b) Respect for the rule of law, democratic institutions and fundamental rights;
+
+  - (c) A commitment to uphold the Constitution of the Federal Republic of Somalia;
+
+  - (d) Transparency and accountability;
+
+  - (e) Political neutrality; and
+
+  - (f) Members of the forces shall be trained on the implementation of this Constitution, the laws
+of the land and the international treaties to which the Federal Republic of Somalia is a party.
+
+2.  Every Somali citizen is entitled to be considered for positions in the national armed forces at all
+levels, without discrimination and the rights of women shall be protected in this respect. 
+
+## Article 128. 
+**Abuse of Powers**
+
+Human rights abuses alleged to have been committed by members of the armed forces against civilians
+shall be brought before a civilian court.
+
+## Article 129. 
+**The Office of the Ombudsman**
+
+1.  This Constitution establishes the Office of the Ombudsman which is an entity where the public
+can lodge their complaints against abuses committed by the members of the security forces and the
+government administration.
+
+2.  The office of the Ombudsman can initiate an investigation if it suspects the existence of violation
+committed by the security forces against an individual or on a section of the community. If the
+investigations reveal convincing results it can take up the matter before a relevant court of law.
+
+3.  A special law shall determine the powers and duties of the Ombudsman
+
+## Article 130. 
+**Security Agencies Laws**
+The two Houses of the Parliament shall enact a law governing the structure, functions and levels of the
+security agencies of the Federal Republic of Somalia.
+
+## Article 131. 
+**State of Emergency**
+
+1.  A State of Emergency may be declared only if it is necessary to deal with a serious situation arising
+from war, invasion, insurrection, disorder, a natural disaster or some other grave public emergency.
+
+2.  A State of Emergency may be declared affecting the whole or part of the country, but shall not be
+more extensive than necessary to deal with the situation.
+
+3.  The President acting on the request of the Council of Ministers may declare a necessary State of
+Emergency, which shall then be debated, and may be approved, by both Houses of the Federal
+Parliament within 21 days ofthat declaration. The debates in the Federal Parliament shall take place
+in public unless it is no feasible to do so in the circumstances.
+
+4.  The Federal Parliament may approve or extend a state of emergency for no more than three
+months at a time. If the Federal Parliament does not approve or extend a State of Emergency, the
+State of Emergency ceases to be in effect.
+
+5.  The declaration of a State of Emergency may give the executive special powers that are necessary
+to deal with the situation only.
+
+6.  The powers granted under a State of Emergency shall not include powers to violate the rights under
+this Constitution, unless that violation is absolutely necessary for the purposes of dealing with the
+emergency situation.
+
+7.  The validity of a declaration of a State of Emergency, and the procedures involved in making the
+declaration, may be challenged in court.
+
+##CHAPTER 15: FINAL AND TRANSITIONAL PROVISIONS <br> Title One: Amending The Constitution
+## Article 132. 
+**Provisions Applicable to an Amendment to the Constitution Proposed After the Expiry of the First Term of the Federal Parliament**
+
+1.  Notwithstanding Clause 2, whether before or after the expiry of the first term of the Federal
+Parliament, neither House of Parliament may consider an amendment to the Founding Principles
+mentioned in Chapter 1 of this Constitution.
+
+2.  Subject to Clause 1, and other than an amendment of the boundaries of Federal Member States
+in terms of Article 49, a House of the Federal Parliament may consider an amendment to the
+Constitution only in terms of the procedures set forth in Clauses 3 through 9.
+
+3.  The Federal Government or a Federal Members State government, a member of the Federal
+Parliament or a petition signed by at least 40,000 citizens may initiate the amendment process.
+
+4.  A sponsor of a constitutional amendment in terms of Clause 3 may introduce that proposed
+amendment into either House of the Federal Parliament.
+
+5.  If a majority of the members of the House in which its sponsors introduce a proposed
+constitutional amendment accept that amendment on first or a subsequent reading, the Speaker of
+the House of the People and the Speaker of the Upper House of the Federal Parliament of Somalia
+shall each appoint ten members of that Speaker’s House to a joint committee of the two Houses.
+
+6.  The joint committee appointed in terms of Clause 5 shall:
+
+  - (a) Review a proposal for the amendment;
+
+  - (b) Inform the public of the proposal;
+
+  - (c) Ensure that adequate opportunity exists for public debate;
+
+  - (d) Consult with members of the public;
+
+  - (e) Ensure that members of the public have adequate opportunity to present their comments
+and suggestions to the joint committee; and
+
+  - (f) Engage Federal Member State legislatures and incorporate the Federal Member States’
+harmonized submissions into the proposed amendment, whereas the matter concerns Federal
+Member State interests. 
+
+7.  Within two (2) months of its appointment, the joint committee shall submit its report to each
+House of the Federal Parliament.
+
+8.  The Federal Parliament adopts a proposed amendment only after approving it on a final vote in the
+House of the People by at least two-thirds (2/3) of the existing members, and on a final vote in the
+Upper House of the Federal Parliament by at least two-thirds (2/3) of the existing members. 
+
+9.  A House of Parliament may only take a final vote three (3) months or more after the report of the
+joint committee in terms of Clause 7.
+
+10. If the Parliament approves one or more proposed amendments in terms of this Article and Article
+136 concerning the review of the final Constitution, it shall conduct a referendum on the revised
+Constitution as amended. 

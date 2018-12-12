@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f1c7f2bae3e4e06af1b1b7bd598ea7c4"
+    "revision": "53ff2cc4278f31af5e6fb6ea047916ad"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "revision": "9e99d03f83b1fc1c100587696387c8c5"
   },
   {
-    "url": "assets/js/4.23a897fb.js",
-    "revision": "1a95c67edf7c2320cc8f5bbd98d87bb9"
+    "url": "assets/js/4.7b9601a0.js",
+    "revision": "950f4afd811c553aab98f4ae23d0e08a"
   },
   {
-    "url": "assets/js/5.c48a0b71.js",
-    "revision": "5ee87c5a76aaad40a4bd0a271dbbff5e"
+    "url": "assets/js/5.8c9cd821.js",
+    "revision": "0243bd7d8975ee3954f1a6536b44f0d5"
   },
   {
     "url": "assets/js/6.c65cfd5e.js",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "revision": "97dd40a3159ffdfa68b0bb3d51b64fb6"
   },
   {
-    "url": "assets/js/app.51e5ed55.js",
-    "revision": "e592fd1efd12cb6773076c64a796e71a"
+    "url": "assets/js/app.62094ba2.js",
+    "revision": "ef943a790ab042892d539d67e8a3023d"
   },
   {
     "url": "calanka.png",
@@ -77,15 +77,15 @@ self.__precacheManifest = [
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "e99862b8afe7f837e233fea532492f80"
+    "revision": "f9d455925b7fc331394e3c9fe17cc87e"
   },
   {
     "url": "english/index.html",
-    "revision": "32848b17e3ec1ffcf2403a12db0bd8e8"
+    "revision": "d16c57e905d1e013f1dac4b9b514eedc"
   },
   {
     "url": "guide/index.html",
-    "revision": "034f72da7edd4c77361eb9d618dc0411"
+    "revision": "03606d212ef4561f65bc717e8d8d5385"
   },
   {
     "url": "guidebook.jpg",
@@ -93,11 +93,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7a7239d975533f9cc140b87019b6b759"
+    "revision": "4404bc85a07595959a9497b1bc464d7d"
   },
   {
     "url": "lang/index.html",
-    "revision": "f79bc94749f5326eb082fa652292ce72"
+    "revision": "fca4f5c90f93f06daeda48f05fc27489"
   },
   {
     "url": "provisional_constitution.png",
@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "eae2006fba075b79c7f6dc9aa33e709d"
+    "revision": "c8be2a64a8f9303f39fc58b01fe69831"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
