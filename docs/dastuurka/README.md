@@ -531,6 +531,7 @@ dhasha tartanka siyaasadda iyo natiijooyinka doorashada.
 ## Madaxa Labaad: Doorashooyinka
 ## Qodobka 47aad. 
 **Nidaamka Doorashooyinka iyo Xisbiyada**
+
 Shuruucda ku saabsan Xisbiyada, Diiwaangelintooda, Doorashooyinka heerka dowladda federaalka ah
 iyo Guddiga Qaranka ee Madaxbanaan ee Doorashooyinka, waxaa lagu qeexi doonaa shuruuc gaar ah
 oo uu soo saaro Golaha Shacabka ee Baarlamaanka Federaalka Soomaaliya.
@@ -2234,8 +2235,19 @@ horay u jiray iyo kuwa cusub, oo ay ku jiraan, balse aanan ku koobnayn kuwan soo
 
 22. Xeer waafaqsan qodobka 141, oo khuseeya u codeynta arrin khaas ah ee dadweynaha.
 
-
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![calanka Soomaaliya](/calanka.png)

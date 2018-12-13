@@ -852,7 +852,7 @@ to be formed, and the procedure of their work.
 
 ## Title Two: The House Of The People Of The Federal Parliament
 
-##Article 63. 
+## Article 63. 
 **The Legislative Powers of the House of the People**
 
 The House of the People of the Federal Parliament represents all the people of Somalia, and the
