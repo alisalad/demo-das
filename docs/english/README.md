@@ -2400,6 +2400,7 @@ investigations reveal convincing results it can take up the matter before a rele
 
 ## Article 130. 
 **Security Agencies Laws**
+
 The two Houses of the Parliament shall enact a law governing the structure, functions and levels of the
 security agencies of the Federal Republic of Somalia.
 
@@ -2431,7 +2432,7 @@ emergency situation.
 7.  The validity of a declaration of a State of Emergency, and the procedures involved in making the
 declaration, may be challenged in court.
 
-##CHAPTER 15: FINAL AND TRANSITIONAL PROVISIONS <br> Title One: Amending The Constitution
+## CHAPTER 15: FINAL AND TRANSITIONAL PROVISIONS <br> Title One: Amending The Constitution
 ## Article 132. 
 **Provisions Applicable to an Amendment to the Constitution Proposed After the Expiry of the First Term of the Federal Parliament**
 
@@ -2484,3 +2485,354 @@ joint committee in terms of Clause 7.
 10. If the Parliament approves one or more proposed amendments in terms of this Article and Article
 136 concerning the review of the final Constitution, it shall conduct a referendum on the revised
 Constitution as amended. 
+
+## Article 133. 
+
+**Provisions Applicable to an Amendment to the Provisional Constitution Schedule One (C), or a Law Mentioned in Schedule One (D) of this Constitution, Proposed Before the Expiry of the First Term of the Federal Parliament: The Oversight Committee.**
+
+1.  In this Article and in Article 134:
+  - (a) ‘Oversight Committee’ means the Provisional Constitution Review and Implementation Oversight Committee.
+  - (b) ‘Review and Implementation Commission’ means the Independent Provisional Constitution Review and Implementation Commission.
+
+2.  This Constitution establishes the Oversight Committee as a Committee of the Federal Parliament.
+  - (a) Each House of the Federal Parliament of the Federal Republic of Somalia shall elect five (5) of Members as members of the Oversight Committee. In addition, each existing Federal Member State of the Federal Republic of Somali that qualifies as a Federated State under the Federal Constitution of Somalia shall nominate one Federal Member State Delegate as a member of the Oversight Committee;
+
+  - (b) The Oversight Committee shall oversee, direct and approve the work of the Review and Implementation Commission, and, generally, the implementation of the Constitution.
+
+3.  The members of the Oversight Committee shall select its Chairperson from among the members of the Oversight Committee.
+
+4.  Not later than one month after the Oversight Committee selects its Chairperson, the Oversight Committee shall by majority vote adopt rules for its functioning.
+
+5.  The Oversight Committee shall from time to time, assign to the Review and Implementation Commission a drafting project based upon the requirements of Schedules 1 (C) and 1 (D) and such other requirements as shall be deemed necessary pursuant to the outcomes of the National Constituent Assembly provisional adoption as set forth in the Protocol Establishing the National Constituent Assembly.
+
+6.  In assigning a drafting project mentioned in Clause 5, the Oversight Committee shall prioritize the project as follows:
+
+  - (a) Analyze the project in terms of the social problem that the proposed Constitutional amendment or bill will address;
+
+  - (b) Accord high priority to a project that aims at changing the behaviors that constitute a social problem concerning:
+    - (i) National security, public safety, the protection of basic human rights, or the environment;
+    - (ii) Inequality in quality of life of different segments of the Somali population, including income inequality, inequality in health care delivery, and inequality in education;
+    - (iii) Economic development, including the availability of jobs, ensuring that a fair proportion of surplus value earned by foreign investors is reinvested in the Federal Republic of Somalia , and ensuring that Somali citizens receive education in, and obtain jobs related to the use of new technologies; and
+    - (iv) Safeguarding public funds against corruption and misuse.
+
+  - (c) Accord lesser priority to a drafting project concerning a social problem related to the responsibility of an existing Ministry other than those concerned with high priority social problems;
+
+  - (d) So far as possible on the basis of accurate social cost-benefit calculations, assign relative priorities between proposed drafting projects seemingly of equal priority;
+
+  - (e) Invite Members of both Houses of the Federal Parliament of the Federal Republic of Somalia to discuss prioritization of proposed constitutional amendments and proposed draft bills;
+
+  - (f) Annually submit to the Federal Parliament of the Federal Republic of Somalia for approval,
+amendments, approval, or rejection, of a current legislative drafting program of priority
+proposed Constitutional amendments and proposed draft bills, in the order in which the
+Oversight Committee will assign projects for drafting to the Review and Implementation
+Commission, and from time to time add or subtract from that program as the current
+situation warrants.
+
+7.  As the Review and Implementation Commission, in terms of Clause 6, completes a project assigned
+to it for drafting, as mentioned in Article 134, it shall submit for the Oversight Committee’s review
+the draft Constitutional amendment or draft bill, accompanied by the report mentioned in Article
+134 (7)(b).
+
+8.  The Oversight Committee shall:
+  - (a) Internally review a draft Constitutional amendment or draft bill and the accompanying report, received in terms of Clause 7;
+  - (b) Inform the public of the proposal and the report;
+  - (c) So far as possible, ensure that adequate opportunity exists for public debate;
+  - (d) Consult with members of the public and other members of the Federal Parliament of the
+Federal Republic of Somalia; and
+  - (e) Engage Federal Member State legislatures and incorporate harmonized submissions into the
+proposed amendment, where the matter concerns Federal Member State interests.
+
+9.  If after the consultations mentioned in Clause 8 the Oversight Committee decides to incorporate
+various suggestions into the proposed Constitutional amendment or bill, it shall return the proposed
+Constitutional amendment or bill and report to the Review and Implementation Commission for
+redrafting, with instructions.
+
+10. If after the consultations mentioned in Clause 8 the Oversight Committee decides to submit
+the proposed Constitutional amendment or bill for enactment, it shall forward the proposed
+Constitutional amendment or bill to the Speaker of the House of the People, together with its
+accompanying report, for further proceedings in terms of this Constitution.
+
+11. The Oversight Committee shall report not less that once each quarter year to both Houses of
+the Federal Parliament the progress in completing the projects mentioned in Schedules One (C)
+and One (D) and as required pursuant to the outcomes of the National Constituent Assembly as
+stipulated in the Protocol Establishing the National Constituent Assembly.
+
+12. The Oversight Committee ceases to exist upon the approval of its dissolution by a simple majority
+(50% plus 1) of each House of the Federal Parliament of the Federal Republic of Somalia.
+
+## Article 134. 
+**Provisions Applicable to an Amendment to the Constitution Proposed Before the Expiry of the First Term of the Federal Parliament: The Review and Implementation Commission.**
+
+1.  This Constitution establishes the Review and Implementation Commission as a Commission subject
+to the overall direction of the Oversight Committee in accordance with Article 133.
+
+2.  At the beginning of the first term of the Federal Parliament of the Federal Republic of Somalia,
+the relevant Minister shall nominate to the Prime Minister five members of the Review and
+Implementation Commission whom the relevant Minister selects from short lists prepared by the
+Council of Ministers. In addition, existing Federal Member States should nominate one additional
+delegate to the Review and Implementation Commission, based on the same selection criteria.
+
+3.  The relevant Minister shall select as a nominee a person, not a member of the Federal Parliament, who meets the following criteria for appointment to the Review and Implementation Commission:
+
+  - (a) Has a good moral character and reputation;
+  - (b) Possesses a degree from a recognized university;
+  - (c) Has demonstrated competence at high levels of public administration or law in Somalia;
+  - (d) Has knowledge and experience of at least ten years in matters relating to one or more of the
+following fields:
+    - (i) Law;
+    - (ii) Public administration;
+    - (iii) Economics;
+    - (iv) Gender;
+    - (v) Human rights.
+
+  - (e) Has had a distinguished career in the nominee’s respective field; and
+
+  - (f) Has extensive legislative drafting experience.
+
+4.  The Prime Minister shall place the names of the nominees before each House of the Federal
+Parliament of the Federal Republic of Somalia within 15 days after the Cabinet is formed, which
+shall, within fourteen (14) days, approve all or reject one or more of the nominees.
+
+5.  If either House rejects a nominee, the relevant Minister shall in terms of Clause 3 nominate a
+replacement, and thereafter follow the procedure prescribed in Clauses 4 through 6.
+
+6.  After the Federal Parliament of the Federal Republic of Somalia has selected five 5 nominees in
+terms of Clauses 4 and 5, the Prime Minister shall designate one of the nominees as Chairperson,
+and forward the nominees’ names to the President, who shall forthwith appoint the Prime
+Minister’s designee as Chairperson, and the other two nominees as members of the Review and
+Implementation Commission.
+
+7.  The Review and Implementation Commission shall:
+
+  - (a) As the Oversight Committee may direct, draft a proposed constitutional amendment in terms of Schedule One (C), or a proposed bill as mentioned in Schedule One (D), or as otherwise required pursuant to the outcomes of the National Constituent Assembly;
+
+  - (b) Prepare a research report to accompany that proposed amendment or bill, which report, in
+terms of evidence, both justifies the proposed amendment or bill and predicts the probability
+that the proposed amendment or bill will induce its prescribed behaviors, and that those
+behaviors will ameliorate the social problem at which the proposed amendment or bill aims;
+
+  - (c) Accomplish the necessary legal and factual research required to fulfill the tasks mentioned in
+Paragraphs (a) and (b);
+
+  - (d) In terms of Article 137 (7), submit the completed proposed amendment or draft bill
+accompanied by the report mentioned in Paragraph (b) to the Oversight Committee;
+
+  - (e) Report every three (3) months to the Oversight Committee, or upon request by the Oversight
+Committee, on progress in the review and implementation of this Constitution and any
+impediments to the review and implementation process;
+
+  - (f) Work with the Chief Justice of the Constitutional Court to ensure the constitutionality of the
+proposals; and
+
+  - (g) Subject to budgetary limitations, employ staff sufficient to accomplish its duties under this
+Constitution.
+
+## Article 135. 
+**Mandates and Prescribed Timelines for Priority Institutions and Independent Commissions the Federal Parliament Shall Establish.**
+
+1.  Unless otherwise stated in this Constitution, the Federal Parliament of the Federal Republic of
+Somalia shall appoint no more than nine (9) members to serve on Independent Commissions.
+
+2.  The Federal Parliament shall establish the following Institutions and Independent Commissions within the following timeframes applicable after the Council of Ministers is formed:
+
+  - (a) The Judicial Service Comission - 30 days;
+  - (b) Constitutional Court - 60 days;
+  - (c) The Human Rights Commission, Ombudsman, the National Security Commission and the Civilian Oversight Sub-Committee - 45 days;
+  - (d) The Parliamentary Service Commission - 15 days;
+  - (e) The National Independent Electoral Commission and the Boundaries and Federation
+Commission - 60 days;
+  - (f) The Interstate Commission - 1 year;
+  - (g) The Truth and Reconciliation Commission - 30 days.
+
+3.  In order to facilitate the work of the Federal Parliament in accomplishing these tasks, the Technical
+Facilitation Committee shall prepare the draft legislation required to establish such commissions
+under this Constitution for the Oversight Committee and the Review and Implementation
+Commission to finalize and submit to the Federal Parliament to consider as soon as practicable in
+order to meet the deadlines established in Clause 2 above.
+
+## Article 136. 
+**Adoption of a Constitutional Amendment During the First Term of the House of the People; Adoption of the Final Constitution.**
+
+1.  During the first term of the Somali Federal Parliament, it shall adopt a proposed amendment to the
+Provisional Constitution only after approving it in a final vote in the House of the People by at least two-thirds (2/3) of the existing Members, and in a final vote in the Upper House of the Federal
+Parliament by at least two-thirds (2/3) of the existing members.
+
+2.  In a referendum held concerning the Provisional Constitution as amended, held before the end of
+the first term of the House of the People, the electorate of the Federal Republic of Somalia may
+adopt the new Constitution by a majority vote in favor of the final version of this Constitution.
+
+## Article 137.
+**Review of the Constitution of the Federal Republic of Somalia After Ratification by Referendum.**
+
+1.  At the expiry of the first term of the Federal Parliament of Somalia, the Federal Parliament
+shall establish a Commission to review the implementation and operation of the Constitution
+of the Federal Republic of Somalia, as ratified in terms of Article 136 on adoption of the final
+Constitution, and to consult the Federal Member States and members of the public on possible changes.
+
+2.  Within six months after its appointment, the Commission shall submit a report to the Federal Parliament, the Federal Member States and the public.
+
+3.  After collection and consideration of the views of the Federal Member States, the public, and
+monitoring and evaluating the implementation and application of the final Constitution and not
+less than six (6) months before the expiry of the second term of the Somali Federal Parliament,
+the Commission , in consultation with the Chief Justice of the Constitutional Court to ensure that
+the letter and spirit of the Constitution is respected, shall revise its report and submit to the Federal
+Parliament its proposals, if any, for amending the Constitution in terms of Article 132.
+
+4.  If the Federal Parliament approves one or more proposed amendments in terms of Article 132,
+the Federal Parliament shall follow the procedures set forth in Article 132 on the proposed revised
+Constitution of the Federal Republic of Somalia as amended.
+
+4.  If a majority of those voting in the referendum mentioned in Clause 4 vote to approve the final
+Constitution as amended, that Constitution becomes the Constitution of the Federal Republic of
+Somalia.
+
+### Title Two: Miscellaneous Provisions 
+## Article 138. 
+**Coming Into Effect of this Constitution**
+
+This Constitution comes into effect on the first day after approval by a National Constituent Assembly
+convened in terms of the Roadmap Agreement, the Garowe 1 and Garowe II Principles, the Galkayo
+and the Addis Ababa Agreements, the Presidential Decree and the relevant Protocols.
+
+## Article 139. 
+**Continuation of the Laws**
+
+All laws in force immediately before the effective date shall continue to be in force and shall be
+construed and applied with such alterations, adaptations, qualifications and exceptions as may be
+necessary to bring them into conformity with this Constitution until such time as such laws are
+amended or repealed.
+
+## Article 140. 
+**International Obligations**
+
+Until the treaty imposing a treaty obligation in effect on the date that this Constitution comes into force
+expires or is amended, that treaty obligation remains in effect.
+
+## Article 141. 
+**Referendums**
+
+1.  Whether required by this Constitution, by law, or for another reason, in conducting a referendum,
+including the referendum to validate this Provisional Constitution, in conducting a referendum
+the authority conducting that referendum shall ensure that all eligible voters have opportunity to
+express their views in a free, direct and secret manner and in accordance with a law that the Federal
+Parliament shall enact establishing the procedures for referendums.
+
+2.  The authority conducting a referendum shall ensure that:
+  
+  - (a) The referendum asks a question clearly, in a manner designed to elicit the genuine view of the
+voter and does not obscure the nature of the choice that the voter faces; and
+ 
+  - (b) That neither a question, the design of the ballot paper nor the procedure suggests a particular
+answer to the question.
+
+## Article 142. 
+**Existing Federal Member States in Somalia**
+
+1.  Until such time that all the Federal Member States of Somalia are established and the adopted
+Federal Member State Constitutions are harmonized with the Somali Federal Constitution, the
+Federal Member States existing prior to the provisional adoption of this Provisional Constitution
+by a National Constituent Assembly shall retain and exercise powers endowed by their own State
+Constitution.
+
+2.  Existing Federal Member States must be consulted in the decision-making process regarding the
+federal system, and security arrangements.
+
+## Article 143. 
+**Repeal of the Transitional Federal Charter**
+
+The Transitional Federal Charter ceases to exist upon the dissolution of the National Constituent
+Assembly.
+
+# SCHEDULES 
+## SCHEDULE ONE (A) – THE SOMALI FLAG
+
+![The Somali Flag](/calanka.png)
+
+## SCHEDULE ONE (B) – THE SOMALI EMBLEM
+
+![The Somali Emblem](/somalia.png)
+
+## SCHEDULE ONE (C) – TRANSITION: PROPOSED AMENDMENTSTO THE CONSTITUTION IN THE FIRST TERM OF THE FEDERAL PARLIAMENT
+
+In terms of Article 133 and 134, the Somali Federal Parliament shall propose and enact amendments to this
+Provisional Constitution, in conformity with agreements negotiated between the Federal Government and the
+Existing Federal Member States and new Federal Member States, including but not limited to the following:
+
+1.  To Article 22, prescribing detailed methods of exercising the right of political participation;
+2.  To Article 32, concerning the right of access of information;
+3.  To Article 39, prescribing procedures for redress for violations of human rights;
+4.  To Article 41, establishing a Human Rights Commission;
+5.  To Article 43, concerning dispositions of federal land;
+6.  To Article 47, concerning political parties and the electoral system;
+7.  To Articles 110 and 113, prescribing the obligations, duties, number of members, and procedures of Independent Commissions;
+8.  To Article 111 J, concerning the Ombudsman;
+9.  To Article 130, prohibiting private militias;
+10. To Article 130, regulating private security companies;
+11. To Articles 131, concerning states of emergency
+
+## Schedule One (D) – PRIORITY LAWS TO BE ENACTED IN THE FIRST TERM OF THE FEDERAL PARLIAMENT
+
+The Drafting Commission shall prioritize drafting projects concerning new laws, in conformity with agreements
+negotiated between the Federal Government and the existing Federal Member States and new Federated States,
+including but not limited to the following:
+
+1.  A law in terms of Article 8, prescribing how to obtain or lose citizenship in the Federal Republic of Somalia;
+
+2.  A law in terms of Article 9, prescribing the status of the capital city;
+
+3.  A law in terms of Article 30, concerning the establishment of private schools, institutes and
+universities;
+
+4.  A law in terms of Article 34, concerning the right to free legal aid to defendants in criminal cases;
+
+5.  A law in terms of Article 36, concerning the extradition of accused persons and criminals;
+
+6.  A law in terms of Article 37, concerning refugees and asylum;
+
+7.  A law in terms of Article 39, prescribing procedures for redress for violations of human rights;
+
+8.  A law in terms of Article 45, concerning the dumping of waste;
+
+9.  A law in terms of Article 49 concerning the number and boundaries of Federal Member States, and
+the resolution of boundary disputes;
+
+10. A law in terms of Article 51, prescribing rules concerning collaborative relationships between the
+several levels of government;
+
+11. A law in terms of Article 68, prescribing rules of procedure for the House of the People;
+
+12. A law in terms of Article 70, defining the immunity of Members of the Somali Federal Parliament;
+
+13. A law in terms of Article 75, prescribing rules of procedure for the Upper House of the Federal
+Parliament;
+
+14. A law in terms of Article 123, establishing the Central Bank of the Federal Republic of Somalia;
+
+15. A law in terms of Article 130, concerning the security forces;
+
+16. Laws in terms of Article 130, establishing specialized bodies as necessary to deal with antiterrorism, anti-piracy, human trafficking and other organized crime;
+
+17. A law in terms of Article 130, regulating the structure and functions of the federal police;
+
+18. A law in terms of Article 130, regulating the relationships between the federal police service and the
+police services of the Federal Member States;
+
+19. A law in terms of Article 130, to clarify the issue of obedience to illegal orders;
+
+20. A law in terms of Article 130, concerning the establishment and operation of the special
+parliamentary committee for the armed forces; 
+
+21. A law in terms of Article 130, concerning the involvement of civilians in the oversight of the federal police service;
+
+22. A law in terms of Article 141, concerning the conduct of a referendum.
+
+
+<br>
+
+
+
+
+
+
+
+![The Somali Flag](/calanka.png)
