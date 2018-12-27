@@ -11,7 +11,7 @@ footer: Copyright © 2018 | Dastuurka | Developed Ali Salad
 
 <div class="tip custom-block"> <p class="custom-block-title">NOTE</p>
 
-**Prepared By the UNDP/UNPOS Joint Constitution Unit**
+Prepared By the UNDP/UNPOS Joint Constitution Unit
 
 <p>This Guide Book is designed to aid the Somali people to become familiar
 with the contents of the Provisional Constitution entering into force on
