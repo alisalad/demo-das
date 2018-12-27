@@ -25,7 +25,6 @@ module.exports = {
   ga: 'UA-130701702-1',
   /*description: 'Dastuurka Soomaaliya.',*/
 
-
   themeConfig: {
 
     /*algolia: {
@@ -43,8 +42,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Dastuurka', link: '/dastuurka/' },
       { text: 'English', link: '/english/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Guide Book', link: 'http://www.jccp.gr.jp/_src/sc2322/Guidebook20on20Provisional20Constitution20of20Somalia.pdf' },
+      { text: 'Guidebook', link: '/guide/' },
       { text: 'Xeer Hoosaadka', link: '/xeerhoosaadka/' },
     ],
     sidebar: 'auto'

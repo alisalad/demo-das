@@ -1,6 +1,8 @@
 ---
 home: true
 heroImage: /somalia.png
+heroText: Provisional Constitution
+tagline: The Federal Republic of Somalia
 actionText: Provisional Constitution →
 actionLink: /english/
 footer: Copyright © 2018 | Dastuurka | Developed Ali Salad
