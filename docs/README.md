@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /somalia.png
-actionText: Dastuurka Ku-Meel Gaarka →
+actionText: Dastuurka KMG →
 actionLink: /dastuurka/
 footer: Copyright © 2018 | Dastuurka | Developed Ali Salad
 ---

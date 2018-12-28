@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "68b228d0d52472e4c55ef68b22b992c4"
+    "revision": "a2bda23f4f5254ef56c47b3f42ee4d8b"
   },
   {
     "url": "assets/css/0.styles.a5e41e54.css",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "revision": "97dd40a3159ffdfa68b0bb3d51b64fb6"
   },
   {
-    "url": "assets/js/app.bc10e3bc.js",
-    "revision": "c91c427adc967205f2d3d585100076d4"
+    "url": "assets/js/app.a148651b.js",
+    "revision": "4dbbebb5e6f8469fb7c571c511eef9f8"
   },
   {
     "url": "calanka.png",
@@ -77,15 +77,15 @@ self.__precacheManifest = [
   },
   {
     "url": "dastuurka/index.html",
-    "revision": "28b8e2d0a82f2950b17f30ef011c0183"
+    "revision": "ddb512bf7bcd074774b79c0bebdbac33"
   },
   {
     "url": "english/index.html",
-    "revision": "5e5f350ece387c5f61595d87622bc8d1"
+    "revision": "e4f96ed63b0253f8ceeab0396efc6ccb"
   },
   {
     "url": "guide/index.html",
-    "revision": "23e332d3e11bb90e6c3d9b7b1a9c97ee"
+    "revision": "3726fcef0d83a15f6858fe7e7d46c6fc"
   },
   {
     "url": "guidebook.jpg",
@@ -93,11 +93,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "abd053092b7de55f46686360fd5dce0b"
+    "revision": "15bf82658cd42a4c702c5ac19b3261a4"
   },
   {
     "url": "lang/index.html",
-    "revision": "c21c3850cc69962d50f8589038677b04"
+    "revision": "123c31475509f2c26a5f02fa87d62f0b"
   },
   {
     "url": "provisional_constitution.png",
@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "xeerhoosaadka/index.html",
-    "revision": "e500a13c6a49f0d48ca9b836933fdef8"
+    "revision": "ff80c0ba1f9f7d691847bfa1eb2b9a05"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
