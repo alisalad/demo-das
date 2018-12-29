@@ -8,11 +8,13 @@ module.exports = {
     "/lang/": { lang: "English" }
   },
 
+  plugins: ['@vuepress/pwa'],
 
   serviceWorker: true,
-
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }],
+
+
 
     [
       'meta',
