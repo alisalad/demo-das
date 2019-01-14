@@ -9,12 +9,9 @@ module.exports = {
   },
 
   plugins: ['@vuepress/pwa'],
-
   serviceWorker: true,
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }],
-
-
 
     [
       'meta',
@@ -29,14 +26,14 @@ module.exports = {
 
   themeConfig: {
 
-    /*algolia: {
+    algolia: {
       apiKey: '933dc802eaadb0c660ede7aa8f6c59f7',
       appId: '19YDZA2VXK',
       indexName: 'dastuurka',
       algoliaOptions: {
         hitsPerPage: 10,
       }
-    },*/
+    },
 
     lastUpdated: 'Last Updated',
 
