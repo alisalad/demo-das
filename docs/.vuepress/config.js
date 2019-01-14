@@ -9,9 +9,7 @@ module.exports = {
   },
 
   plugins: ['@vuepress/pwa'],
-  serviceWorker: true,
-  popupComponent: 'MySWUpdatePopup',
-  updatePopup: true,
+
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }],
 
@@ -37,6 +35,11 @@ module.exports = {
       }
     },
 
+    serviceWorker: true,
+    updatePopup: {
+      message: "New content is available.",
+      buttonText: "Refresh"
+    },
     lastUpdated: 'Last Updated',
 
     nav: [
