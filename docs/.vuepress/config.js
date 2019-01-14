@@ -10,6 +10,8 @@ module.exports = {
 
   plugins: ['@vuepress/pwa'],
   serviceWorker: true,
+  popupComponent: 'MySWUpdatePopup',
+  updatePopup: true,
   head: [
     ['link', { rel: 'icon', href: '/somalia.png' }],
 
