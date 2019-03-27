@@ -35,12 +35,14 @@ module.exports = {
       }
     },*/
 
+    lastUpdated: 'Last Updated',
+
     serviceWorker: {
       updatePopup: true,
       message: "New content is available.",
       buttonText: "Refresh"
     },
-    lastUpdated: 'Last Updated',
+
 
     nav: [
       { text: 'Home', link: '/' },
