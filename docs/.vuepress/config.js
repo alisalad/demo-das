@@ -8,6 +8,14 @@ module.exports = {
     "/lang/": { lang: "English" }
   },
 
+  serviceWorker: {
+    updatePopup: true,
+    message: "New content is available.",
+    buttonText: "Refresh"
+  },
+
+  lastUpdated: 'Last Updated',
+
   plugins: ['@vuepress/pwa'],
 
   head: [
@@ -34,15 +42,6 @@ module.exports = {
         hitsPerPage: 10,
       }
     },*/
-
-
-
-    serviceWorker: true,
-    updatePopup: {
-      message: "New content is available.",
-      buttonText: "Refresh"
-    },
-    lastUpdated: 'Last Updated',
 
     nav: [
       { text: 'Home', link: '/' },
