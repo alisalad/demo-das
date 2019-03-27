@@ -585,7 +585,7 @@ that may arise as a result of political contests and election results.
 
 ## Title Two: Elections
 
-##Article 47. 
+## Article 47. 
 **Electoral System and Political Parties**
 
 The regulations concerning political parties, their registration, elections at the Federal Government level
