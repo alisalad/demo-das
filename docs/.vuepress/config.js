@@ -34,7 +34,6 @@ module.exports = {
         hitsPerPage: 10,
       }
     },*/
-    logo: '/assets/img/logo.png',
 
     serviceWorker: {
       updatePopup: true,
