@@ -49,6 +49,7 @@ module.exports = {
       { text: 'Dastuurka', link: '/dastuurka/' },
       { text: 'English', link: '/english/' },
       { text: 'Guidebook', link: '/guide/' },
+      { text: 'Laws', link: '/laws/' },
       { text: 'Xeer Hoosaadka', link: '/xeerhoosaadka/' },
     ],
     sidebar: 'auto'

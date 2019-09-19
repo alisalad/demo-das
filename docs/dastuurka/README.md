@@ -2,7 +2,7 @@
 
 ## Qodobka 1aad
 
-**Jamhuuriyadda Federaalka Soomaaliy**
+**Jamhuuriyadda Federaalka Soomaaliya**
 
 1.  Soomaaliya waa jamhuuriyad federaal ah, leh gobannimo, dimoqraaddi ah, oo ku dhisan matilaadda dadweynaha, loo dhan yahay oo ku salaysan nidaam axsaab badan iyo caddaalad bulshadeed.
 
@@ -1073,11 +1073,17 @@ sharciyada kale ee Jamhuuriyadda Federaalka Soomaaliya.
 
 ## Qodobka 88aad. 
 **Shuruudaha u Doorashada Madaxweynennimada ee Jamhuuriyadda Federaalka ee Soomaaliya**
+
 Waxaa loo dooran karaa xilka Madaxweynaha Jamhuuriyadda Federaalka Muwaaddin kasta oo:
+
 (a) Muwaadin Soomaali, Muslim ah;
+
 (b) Da’adiisu aanay ka yarayn afartan (40) sano;
+
 (c) Leh aqoon ama waayo’aragnimo u qalanta xilkaas;
+
 (d) Dhimirkiisu dhan yahay;
+
 (e) Gelin denbi culus oo ay maxkamadi xukuntay
 
 ## Qodobka 89aad. 
