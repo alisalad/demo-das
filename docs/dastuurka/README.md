@@ -1741,7 +1741,7 @@ waxa weeye:
 
   - (d) Nidaam bangi oo maangal ah.
 
-  - (4) Siyaasadda maaliyaddu waa inay ku tiirsanaato dhaq-dhaqaaqa suuqa ee aan go’aanno maamul saldhig looga dhigin amah-bixinta.
+4.  Siyaasadda maaliyaddu waa inay ku tiirsanaato dhaq-dhaqaaqa suuqa ee aan go’aanno maamul saldhig looga dhigin amah-bixinta.
 
 5.  Bangiga Dhexe ee Federaalka ee Jamhuuriyadda Federaalka Soomaaliya wuxuu leeyahay awood madaxbannaan oo dhammaystiran oo uu ku guto siyaasadda lacagta.
 

@@ -26,6 +26,7 @@ module.exports = {
 
   themeConfig: {
 
+
     /*algolia: {
       apiKey: '933dc802eaadb0c660ede7aa8f6c59f7',
       appId: '19YDZA2VXK',
