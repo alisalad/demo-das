@@ -5,7 +5,10 @@ module.exports = {
   //Displays options for langugaes
   locales: {
     "/": { lang: "Soomaali" },
-    "/lang/": { lang: "English" }
+    "/lang/": { lang: "English" },
+    "/arabic/": { lang: "Arabic" },
+
+
   },
 
   plugins: ['@vuepress/pwa'],
@@ -46,7 +49,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Dastuurka', link: '/dastuurka/' },
-      { text: 'English', link: '/english/' },
+
       { text: 'Guidebook', link: '/guide/' },
       { text: 'Laws', link: '/laws/' },
       { text: 'Xeer Hoosaadka', link: '/xeerhoosaadka/' },
