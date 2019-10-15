@@ -27,14 +27,14 @@ module.exports = {
   themeConfig: {
 
 
-    /*algolia: {
-      apiKey: '933dc802eaadb0c660ede7aa8f6c59f7',
-      appId: '19YDZA2VXK',
-      indexName: 'dastuurka',
+    algolia: {
+      apiKey: '439dcbf329efb458689c0c99ec033fcd',
+      appId: '2LBWW686RF',
+      indexName: 'dev_DASTUURKA',
       algoliaOptions: {
         hitsPerPage: 10,
       }
-    },*/
+    },
 
     lastUpdated: 'Last Updated',
 
