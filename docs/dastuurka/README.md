@@ -114,6 +114,8 @@ Afka rasmiga ah ee Jamhuuriyadda Federaalka Soomaaliya waa **Af-soomaaliga** (_M
 
 ## Cutubka Labaad: <br> Xuquuqda Asaasiga ah iyo Waajibaadka Muwaaddinka
 
+**Madaxa Koowaad: Mabaadi’da Guud Ee Xuquuqda Aadanaha**
+
 ## Qodobka 10aad
 
 **Karaamada Aadanaha**
@@ -148,7 +150,10 @@ Afka rasmiga ah ee Jamhuuriyadda Federaalka Soomaaliya waa **Af-soomaaliga** (_M
 
 3.  Xuquuqda lagu aqoonsaday cutubkan sharci uun baa lagu xaddidi karaa sida ku xusan Qodobka 38.
 
+
+
 ## Qodobka 13aad
+**Madaxa Labaad: Xuquuqda, Xorriyaadka Aasaasiga Ah Ee Qofka IyoXaddidaadooda**
 
 **Xaqa Nolosha**
 
@@ -230,10 +235,12 @@ hawlihiisa;*
 doorto, lana doorto.
 3.  Xuquuqda ku xusan faqradaha (1) iyo (2) ee qodobkan waa in loogu dhaqmaa si waafaqsan
 Dastuurkan iyo sharci Baarlamaanka Federaalka.
-##Qodobka 23aad. 
+
+## Qodobka 23aad. 
 **Xorriyadda xirfadda, Shaqada iyo Mihnadda**
-Muwaaddin kasta wuxuu xaq u leeyahay in uu si xor ah u doorto xirfadda, shaqada ama mihnadda uu
-rabo.
+
+Muwaaddin kasta wuxuu xaq u leeyahay in uu si xor ah u doorto xirfadda, shaqada ama mihnadda uu rabo.
+
 ## Qodobka 24aad. 
 **Xiriirka Shaqada**
 1.  Qof kastaa wuxuu xaq u leeyahay inuu helo xiriir shaqo caadil ah.
@@ -245,6 +252,15 @@ gorgortan-wadareed ku saabsan arrimaha shaqada .
 5.  Qof kasta oo shaqaale ah gaar ahaan dumarka waxa ay xaq gaar ah u leeyihiin in laga ilaaliyo
 faraxumeyn, faquuqid iyo takoorid goobaha shaqada. Sharci kasta shaqaale iyo hab dhaqan kasta waa
 inuu waafaqsanaadaa sinaanshaha jinsiga ee goobaha shaqada.
+
+## Qodobka 25aad. 
+**Deegaanka**
+
+1. Qof kastaa wuxuu xaq u leeyahay inuu helo Deegaan aan waxyeello u lahayn caafimaadkiisa iyo
+baraarihiisa nololeed oo laga ilaaliyey wasakhda iyo waxyaalaha halista ah.
+
+2. Qof kastaa wuxuu xaq u leeyahay in uu wax ka helo kheyraadka dabiiciga ah ee dalka, iyadoo laga
+ilaalinaayo ka faa’ideysi xad-dhaaf ah oo Deegaanka waxyeello u geysan kara.
 
 ## Qodobka 26aad. 
 **Hantida**
