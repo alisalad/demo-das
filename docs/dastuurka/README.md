@@ -184,6 +184,7 @@ Afka rasmiga ah ee Jamhuuriyadda Federaalka Soomaaliya waa **Af-soomaaliga** (_M
 
 ## Qodobka 16aad.
 **Xorriyadda ka-mid-noqoshada**
+
 Qof kastaa wuxuu xaq u leeyahay in uu ku biiro qof kale ama koox . Xaqaas waxaa ka mid ah inuu
 abaabulo ama ka mid noqdo ururro ay ka mid yihiin ururro shaqaale ama xisbiyo siyaasadeed. Wuxuu
 kaloo xor u yahay in uusan cidna ku biirin, lagumana qasbi karo inuu cid kale ku biiro.
