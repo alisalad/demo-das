@@ -3,7 +3,7 @@ home: true
 heroImage: /somalia.png
 actionText: Dastuurka KMG →
 actionLink: /dastuurka/
-footer: Copyright © 2021 | Dastuurka | Developed Ali Salad |
+footer: Copyright © 2021 | Dastuurka | Developed Ali Salad | http://i.imgur.com/wWzX9uB.png
 
 
 ---
