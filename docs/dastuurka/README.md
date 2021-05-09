@@ -506,6 +506,7 @@ quseyso, waxay dejineysaa siyaasadda dhulka iyo qaab lagu koontaroolo, laguna is
 
 ## Qodobka 44aad. 
 **Kheyraadka Dabiiciga ah**
+
 Qaybsiga kheyraadka dabiiciga ah ee Jamhuuriyadda Federaalka Soomaaliya waxaa ka wada xaajoon
 doona Dawladda Federaalka Soomaaliya iyo Dawladaha Xubinta ka noqon doona Dawladda Federaalka
 Soomaaliya iyadoo loo marayo qaab Dastuuri ah.
