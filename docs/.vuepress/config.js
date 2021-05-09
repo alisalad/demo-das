@@ -6,7 +6,7 @@ module.exports = {
   locales: {
     "/": { lang: "Soomaali" },
     "/lang/": { lang: "English" },
-    "/arabic/": { lang: "Arabic" }
+    "/arabic/": { lang: "Arabica" }
   },
 
   plugins: ['@vuepress/pwa'],
