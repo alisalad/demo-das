@@ -667,6 +667,7 @@ Federaalka.
 
 ## Qodobka 54aad. 
 **Kala Qaybinta Awoodaha**
+
 Awood-qaybsiga siyaasadeed iyo dhaqaale waxaa ka wada xaajoon doona Xukuumadda Federaalka
 iyo Dawladaha ka mid noqonaya Dawladda Federaalka Soomaaliya marka laga reebo: 
  - (A) Arrimaha Dibadda; 
@@ -743,6 +744,7 @@ Baarlamaanka.
 **Muddada xil-haynta**
 
 1 . Muddada xil-haynta Baarlamaanka Federaalku waa (4) afar sano oo ka bilaabata maalinta natiijada doorshada lagu dhawaaqo.
+
 2. Xildhibaan kasta oo Baarlamaanka Federaalka ka mid ah dib ayaa loo dooran karaa. 
 
 ## Qodobka 61aad. 
