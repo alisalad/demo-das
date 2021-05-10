@@ -4,7 +4,7 @@ heroImage: /guidebook.jpg
 heroText: Guidebook
 tagline: On the Provisional Constitution of Somalia
 actionText: Guidebook →
-actionLink: https://res.cloudinary.com/dfzphuocd/image/upload/v1620679117/Dastuurka/Guidebook_Provisional_Constitution_Somalia_b73dqq.pdf
+actionLink: https://drive.google.com/file/d/1sasib94m3chNYLlDtve3vWI09XLMSWyc/view?usp=sharing
  
 footer: Copyright © 2018 | Dastuurka | Developed Ali Salad
 ---
