@@ -679,7 +679,7 @@ iyo Dawladaha ka mid noqonaya Dawladda Federaalka Soomaaliya marka laga reebo:
 ## Qodobka 55aad. 
 **Goleyaasha Baarlamaanka Federaalka**
 1. Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka Soomaaliya wuxuu ka kooban yahay:
- - (a) Golaha Shacabka , iyo
+ - (a) Golaha Shacabka, iyo
  - (b) Golaha Aqalka Sare ee Baarlamaanka Federaalka
 2. Golaha Shacabka ee Baarlamaanka Federaalka ah iyo Golaha Aqalka Sare ee Baarlamaanka
 Federaalka waxay masuuliyadaha sharci-dejinta u gutaan si waafaqsan Madaxa Afraad ee Dastuurkan
