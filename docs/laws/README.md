@@ -11,5 +11,5 @@ features:
 
 
   
-footer: Copyright © 2018 | Dastuurka | Developed Ali Salad | @alibashi5
+footer: Copyright © 2021 | Dastuurka | Developed Ali Salad | @alibashi5
 ---

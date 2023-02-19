@@ -506,6 +506,7 @@ quseyso, waxay dejineysaa siyaasadda dhulka iyo qaab lagu koontaroolo, laguna is
 
 ## Qodobka 44aad. 
 **Kheyraadka Dabiiciga ah**
+
 Qaybsiga kheyraadka dabiiciga ah ee Jamhuuriyadda Federaalka Soomaaliya waxaa ka wada xaajoon
 doona Dawladda Federaalka Soomaaliya iyo Dawladaha Xubinta ka noqon doona Dawladda Federaalka
 Soomaaliya iyadoo loo marayo qaab Dastuuri ah.
@@ -666,6 +667,7 @@ Federaalka.
 
 ## Qodobka 54aad. 
 **Kala Qaybinta Awoodaha**
+
 Awood-qaybsiga siyaasadeed iyo dhaqaale waxaa ka wada xaajoon doona Xukuumadda Federaalka
 iyo Dawladaha ka mid noqonaya Dawladda Federaalka Soomaaliya marka laga reebo: 
  - (A) Arrimaha Dibadda; 
@@ -677,7 +679,7 @@ iyo Dawladaha ka mid noqonaya Dawladda Federaalka Soomaaliya marka laga reebo:
 ## Qodobka 55aad. 
 **Goleyaasha Baarlamaanka Federaalka**
 1. Baarlamaanka Federaalka ee Jamhuuriyadda Federaalka Soomaaliya wuxuu ka kooban yahay:
- - (a) Golaha Shacabka , iyo
+ - (a) Golaha Shacabka, iyo
  - (b) Golaha Aqalka Sare ee Baarlamaanka Federaalka
 2. Golaha Shacabka ee Baarlamaanka Federaalka ah iyo Golaha Aqalka Sare ee Baarlamaanka
 Federaalka waxay masuuliyadaha sharci-dejinta u gutaan si waafaqsan Madaxa Afraad ee Dastuurkan
@@ -742,6 +744,7 @@ Baarlamaanka.
 **Muddada xil-haynta**
 
 1 . Muddada xil-haynta Baarlamaanka Federaalku waa (4) afar sano oo ka bilaabata maalinta natiijada doorshada lagu dhawaaqo.
+
 2. Xildhibaan kasta oo Baarlamaanka Federaalka ka mid ah dib ayaa loo dooran karaa. 
 
 ## Qodobka 61aad. 
